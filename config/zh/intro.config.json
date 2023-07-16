@@ -1,0 +1,25 @@
+{
+    "intro_images": [
+        {
+            "path": "bg.jpeg",
+            "color": "rgb(138, 198, 221)"
+        }
+    ],
+    "login": "tomzhao",
+    "subtitle": "帝国理工计算机系MEng 23届毕业生🎓\n微软伦敦A4O软件工程师\n旅游 | 摄影 | 科技 | 音乐 & 电影",
+    "title": "这里是 <span class='highlight'>赵炫</span> 的个人主页",
+    "links": [
+        {
+            "icon": "file",
+            "html": "&nbsp;简历: <a class='highlight' href=''>工作简历</a> | <a class='highlight' href=''>个人生活简历</a>"
+        },
+        {
+            "icon": "blog",
+            "html": "博客: <a class='highlight' href='http://blog.tomzhao.me/?page_id=63'>学习博客</a> | <a class='highlight' href='http://blog.tomzhao.me/?page_id=60'>生活博客</a>"
+        },
+        {
+            "icon": "music",
+            "html": "音乐列表: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a>"
+        }
+    ]
+}

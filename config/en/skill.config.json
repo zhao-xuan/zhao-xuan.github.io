@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "icon": "fas, file",
+            "items": [
+                {
+                    "description": "Related fields: Linux kernel development, frontend and backend development, computer graphics, machine learning, etc.",
+                    "link": "https://blog.tomzhao.me/wp-content/uploads/2021/08/fullresume0801en.pdf",
+                    "title": "Resume for Job/Work (All-in-one)"
+                },
+                {
+                    "description": "Language Study, Photography, Mountain Biking/Running, Traveling, etc.",
+                    "link": "http://blog.tomzhao.me/wp-content/uploads/2020/05/XuanTom-Zhao-Resume-CS.pdf",
+                    "title": "Resume as a Student"
+                },
+                {
+                    "description": "",
+                    "link": "",
+                    "title": ""
+                }
+            ],
+            "mobilebgclass": "bg-1-1",
+            "mobilebgid": "service-content-1",
+            "skill_img": "skill0.jpeg",
+            "title": "My Resume"
+        },
+        {
+            "icon": "fab, wordpress",
+            "items": [
+                {
+                    "description": "Latest Tech new and products",
+                    "link": "http://blog.tomzhao.me/?page_id=58",
+                    "title": "Tech Blog"
+                },
+                {
+                    "description": "A place where I keep my thoughts",
+                    "link": "http://blog.tomzhao.me/?page_id=60",
+                    "title": "Life Blog"
+                },
+                {
+                    "description": "Imperial exam paper solutions, materials for college/intern application",
+                    "link": "http://blog.tomzhao.me/?page_id=63",
+                    "title": "Study Blog"
+                }
+            ],
+            "mobilebgclass": "bg-1-2",
+            "mobilebgid": "service-content-2",
+            "skill_img": "skill1.jpeg",
+            "title": "My Blog"
+        },
+        {
+            "icon": "fas, headphones",
+            "items": [
+                {
+                    "description": "Japanese R&B, The 80s, Lo-fi, Pop.",
+                    "link": "https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n",
+                    "title": "\uf8ffMusic Playlists"
+                },
+                {
+                    "description": "Some words about the music that I listen to",
+                    "link": "http://blog.tomzhao.me/?page_id=79",
+                    "title": "Music Reviews"
+                },
+                {
+                    "description": "",
+                    "link": "",
+                    "title": ""
+                }
+            ],
+            "mobilebgclass": "bg-1-3",
+            "mobilebgid": "service-content-3",
+            "skill_img": "skill2.jpeg",
+            "title": "My Music Playlist"
+        }
+    ],
+    "title": "My Skills"
+}

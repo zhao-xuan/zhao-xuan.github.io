@@ -1,0 +1,326 @@
+{
+    "covers": [
+        {
+            "filter": "uk london",
+            "image": "album-cover-uk-0.jpeg",
+            "title": "Canary Wharf",
+            "location": "London, United Kingdom",
+            "position": "col-lg-4 col-md-6",
+            "description": "This photos are taken mostly during my 3-month stay at Canary Wharf with Peter when Meta provided company housing for him. It was such a bless to live in this beautiful and modern area. Every time I pass by here, I just feel great :P",
+            "link": "https://www.icloud.com/sharedalbum/#B0uG6XBuboTlW4",
+            "id": "canary-wharf"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-0.jpeg",
+            "location": "Marin County, Bay Area, and more, California, U.S.",
+            "position": "col-lg-5 col-md-6",
+            "title": "San Francisco",
+            "description": "",
+            "link": "",
+            "id": "san-francisco"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-1.jpeg",
+            "location": "Baotou, Inner Mongolia, China",
+            "position": "col-lg-3 col-md-6",
+            "title": "My Hometown",
+            "description": "",
+            "link": "",
+            "id": "my-hometown"
+        },
+        {
+            "filter": "uk live",
+            "image": "album-cover-3.jpeg",
+            "location": "London, United Kingdom",
+            "position": "col-lg-4 col-md-6",
+            "title": "Live Concert 2021-2023 in London",
+            "description": "",
+            "link": "",
+            "id": "live-concert-2021-2023-in-london"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-2.jpeg",
+            "location": "London, United Kingdom",
+            "position": "col-lg-4 col-md-6",
+            "title": "Kensington, Chelsea, and Battersea",
+            "description": "",
+            "link": "",
+            "id": "kensington-chelsea-and-battersea"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-3.jpeg",
+            "location": "Belfast, Dublin & Galway, Northern Ireland (U.K.) & Ireland",
+            "position": "col-lg-2 col-md-6",
+            "title": "Ireland Journey",
+            "description": "",
+            "link": "",
+            "id": "ireland-journey"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-4.jpeg",
+            "location": "Tokyo, Japan",
+            "position": "col-lg-2 col-md-6",
+            "title": "Japan Trip & Teamlab",
+            "description": "",
+            "link": "",
+            "id": "japan-trip-teamlab"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "Cambridgeshire, United Kingdom",
+            "position": "col-lg-4 col-md-6",
+            "title": "Cambridge",
+            "description": "",
+            "link": "",
+            "id": "cambridge"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "San Francisco, San Jose and more around the Bay Area, California, U.S.",
+            "position": "col-lg-3 col-md-6",
+            "title": "2022 Trip to the West Coast",
+            "description": "",
+            "link": "",
+            "id": "2022-trip-to-the-west-coast"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "New York, U.S.",
+            "position": "col-lg-5 col-md-6",
+            "title": "New York City over the years + 2023 East Coast Trip",
+            "description": "",
+            "link": "",
+            "id": "new-york-city-over-the-years-2023-east-coast-trip"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "Massachusetts, U.S.",
+            "position": "col-lg-4 col-md-6",
+            "title": "Boston over the years",
+            "description": "",
+            "link": "",
+            "id": "boston-over-the-years"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-5.jpeg",
+            "location": "Westminster, Southwark, Picadilly Circus and more, United Kingdom",
+            "position": "col-lg-3 col-md-6",
+            "title": "City of London",
+            "description": "",
+            "link": "",
+            "id": "city-of-london"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-5.jpeg",
+            "location": "Hyde Park, Regent's Park, Primrose Hill, etc.",
+            "position": "col-lg-3 col-md-6",
+            "title": "Royal Parks in London",
+            "description": "",
+            "link": "",
+            "id": "royal-parks-in-london"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "Brighton, Seven Sister Cliff, Ryde, Shanklin, United Kingdom",
+            "position": "col-lg-2 col-md-6",
+            "title": "Brighton & Isle of Wight",
+            "description": "",
+            "link": "",
+            "id": "brighton-isle-of-wight"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "Windermere & Keswick, Liverpool, Leeds, Coventry",
+            "position": "col-lg-2 col-md-6",
+            "title": "Lake District & Mid-West UK",
+            "description": "",
+            "link": "",
+            "id": "lake-district-mid-west-uk"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "Scotland, United Kingdom",
+            "position": "col-lg-2 col-md-6",
+            "title": "Edinburgh & Glasgow",
+            "description": "",
+            "link": "",
+            "id": "edinburgh-glasgow"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "Zurich, Zermatt, Lucern, Switzerland",
+            "position": "col-lg-4 col-md-6",
+            "title": "Trip in Switzerland",
+            "description": "",
+            "link": "",
+            "id": "trip-in-switzerland"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "Svalbard, Iceland, Norway",
+            "position": "col-lg-4 col-md-6",
+            "title": "Northern Europe",
+            "description": "",
+            "link": "",
+            "id": "northern-europe"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "Amsterdam, The Hague, Rotterdam, Netherland",
+            "position": "col-lg-2 col-md-6",
+            "title": "Trip to Netherland",
+            "description": "",
+            "link": "",
+            "id": "trip-to-netherland"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "Paris, Barcelona, and Lisbon",
+            "position": "col-lg-2 col-md-6",
+            "title": "France, Spain, and Portugal",
+            "description": "",
+            "link": "",
+            "id": "france-spain-and-portugal"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Beijing, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Beijing",
+            "description": "",
+            "link": "",
+            "id": "beijing"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Shanghai, Yangzhou, Hangzhou, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Shanghai & Yangtze Delta City Group",
+            "description": "",
+            "link": "",
+            "id": "shanghai-yangtze-delta-city-group"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Chongqing and Sichuan, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Chongqing & Chengdu",
+            "description": "",
+            "link": "",
+            "id": "chongqing-chengdu"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Sanya, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Trip to Hainan",
+            "description": "",
+            "link": "",
+            "id": "trip-to-hainan"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Hong Kong SAR, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Hong Kong",
+            "description": "",
+            "link": "",
+            "id": "hong-kong"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "Shandong and Fujian Province, China",
+            "position": "col-lg-2 col-md-6",
+            "title": "Qingdao & Xiamen",
+            "description": "",
+            "link": "",
+            "id": "qingdao-xiamen"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "Los Angeles, Santa Monica, Irvine, UCSD and La Jolla Cove, California, U.S.",
+            "position": "col-lg-3 col-md-6",
+            "title": "LA and San Diego",
+            "description": "",
+            "link": "",
+            "id": "la-and-san-diego"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "Washington, Philadelphia, Ithaca, New Haven and more, U.S.",
+            "position": "col-lg-3 col-md-6",
+            "title": "East Coast Collection over the years",
+            "description": "",
+            "link": "",
+            "id": "east-coast-collection-over-the-years"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "Atlanta, Georgia, U.S.",
+            "position": "col-lg-2 col-md-6",
+            "title": "Atlanta",
+            "description": "",
+            "link": "",
+            "id": "atlanta"
+        }
+    ],
+    "tags": [
+        {
+            "label": "*",
+            "name": "All Photos"
+        },
+        {
+            "label": ".us",
+            "name": "🇺🇸U.S."
+        },
+        {
+            "label": ".london",
+            "name": "🎡London"
+        },
+        {
+            "label": ".uk",
+            "name": "🇬🇧U.K & 🇮🇪Ireland"
+        },
+        {
+            "label": ".cn",
+            "name": "🇨🇳China/Asia"
+        },
+        {
+            "label": ".eu",
+            "name": "🇪🇺Europe"
+        },
+        {
+            "label": ".live",
+            "name": "🎵Live Concert"
+        }
+    ],
+    "title": "My Photo Gallery",
+    "display_number": 70
+}

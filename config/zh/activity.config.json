@@ -1,0 +1,249 @@
+{
+    "display_number": 4,
+    "items": [
+        {
+            "title": "全职软件工程师 @ 微软英国Azure for Operators (A4O) 组",
+            "time": "2023年10月, 我的第一份全职工作",
+            "description": "我会在年底加入微软在伦敦英菲尔德的Azure for Operators (A4O)办公室。该办公室原为Metaswitch公司，于2020年7月被微软收购，现在属于Azure云计算大组下的一个分支。",
+            "image": "microsoft.jpg",
+            "padding": 0,
+            "link": {
+                "text": "点此查看微软实习/大三实习申请过程",
+                "link": "https://blog.tomzhao.me/?p=1596&lang=zh"
+            }
+        },
+        {
+            "title": "MEng硕士毕业生 @ 帝国理工学院计算机系",
+            "time": "2023年6月, 结束在伦敦南肯辛顿4年的学习生涯",
+            "description": "在帝国理工学习4年计算机工程之后, 我会从帝国理工学院计算机系作为MEng硕士学位学生毕业。这可能是我生来最艰难但是最值得骄傲的一段时间。我想感谢一路上支持我的同学，朋友，家人们。最重要的是要感谢Peter四年来作为我伴侣的支持和鼓励，全世界仅此一人。",
+            "image": "imperial-logo.jpeg",
+            "padding": 0,
+            "link": {
+                "text": "点此查看毕业设计代码仓库和报告",
+                "link": "https://github.com/zhao-xuan/Imperial-Individual-Project"
+            }
+        },
+        {
+            "title": "MIDL 2023会议发表论文",
+            "time": "2023年4月, 第一次以一作发表短论文/摘要",
+            "description": "短论文题目: High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model。成功发表在了Medical Imaging with Deep Learning 2023会议。该论文的内容也是我在帝国理工大四毕业设计中的第一部分。",
+            "image": "midl2023-logo.png",
+            "padding": 0,
+            "link": {
+                "text": "点此在arxiv上查看该论文",
+                "link": "https://arxiv.org/abs/2305.01138"
+            }
+        },
+        {
+            "title": "软件工程实习生 @ 微软英国Azure for Operators (A4O) 组",
+            "time": "2022年4月至2022年9月",
+            "description": "在微软英国Azure for Operators (A4O) 组做实习生。主要在AP5GC大组下的Network Software Team小组工作。开发了一个人脸识别程序，可通过IP使许多摄像头连接到一个中央服务器以完成人脸识别任务。给Metaswitch的dataplane/framewave中添加一个新的通过完整IP地址查询路径信息的功能。负责给sigtrace_v2工具当中的众多协议包解析并添加显示包的更多信息。",
+            "image": "microsoft.jpg",
+            "padding": 0,
+            "link": {
+                "text": "点此查看微软实习/大三实习申请过程",
+                "link": "https://blog.tomzhao.me/?p=1596&lang=zh"
+            }
+        },
+        {
+            "title": "Magic Wand",
+            "time": "帝国理工2022 ICHACK黑客马拉松, 获得Best Entertainment Hack奖项",
+            "description": "昨天在 #ichack22 活动中，我们的团队开发了一款名为 Magic Wand 的系统实用应用程序，该应用程序赢得了最佳娱乐黑客类别奖。这是一款基于手势的光标控制应用程序，可以让您在不使用触控板或鼠标的情况下操作设备。您可以通过点击和拖动手势来打开/关闭 Chrome 中的标签，拖动窗口位置，滚动网页甚至进行屏幕截图。感谢 Zelin (Daniel) Deng 的平滑算法、Sudarshan Sreeram 精美的图标设计以及相机和屏幕比例配置，控制非常精确，并且能够覆盖整个屏幕。感谢 Gavin Wu 的专业视频拍摄和编辑技巧，我们制作了下面的演示视频，展示了 Magic Wand 的使用方式。最后，我们可以使用它来执行常规鼠标点击和拖动操作，玩像水果忍者和 Geometry Dash 这样的游戏，在在线会议中绘制二叉树，以及在浏览器中玩 Google 的 #quickdraw 游戏。",
+            "image": "magic-wand.png",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库以及演示视频",
+                "link": "https://github.com/danieldeng2/idiurus"
+            }
+        },
+        {
+            "title": "AiRNote",
+            "time": "剑桥2022 Hack Cambridge Atlas黑客马拉松决赛项目/选手",
+            "description": "AiRNote是一款用于iOS的协作增强现实笔记应用，这是一个概念验证的增强现实iOS应用程序，用于在共享工作空间中进行协作记笔记。该应用程序允许用户实时使用Deepgram的API将其语音笔记转录为AR便笺。我们通过苹果的多点连接实现了一个基本版本的共享会话。然而，我们发现将笔记同步起来是具有挑战性的；我们期待尽快解决这个问题！",
+            "image": "airnote.jpg",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/lambda-shuttle/Airnote"
+            }
+        },
+        {
+            "title": "带有图形用户界面的图像处理引擎",
+            "time": "大三软件工程小组项目",
+            "description": "为研究目的开发的桌面图像处理软件。使用Kotlin开发了一款图像处理软件，并使用JavaFX作为GUI框架。我的工作包括一些高级功能，如神经风格转换、深度估计、隐写术、基于神经网络的去噪和伪着色。使用Pytorch训练/追踪去噪和深度检测模型，并使用lib-torch在Kotlin中加载模型并进行前向传递。使用mmdnn将Tensorflow/Keras模型转换为Pytorch模型。使用Pytorch在Nvidia GPU上训练了6个不同的神经风格转换模型，并使用jit.tracing将.pth模型转换为.pt模型。",
+            "image": "third-year-group-project.png",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/G14-Y3/IPEwG"
+            }
+        },
+        {
+            "title": "帝国理工学院计算机系个人编程导师 (PPT) 和实验室助教 (Lab UTA)",
+            "time": "2021年9月至2023年3月兼职工作",
+            "description": "大三大四2年期间担任导师，负责指导一组9名大一学生。回答与每周的Haskell/Java/Kotlin编程练习相关的问题，纠正代码风格，为学生准备Leetcode挑战和面试技巧，并对他们每周的练习提交进行评分。同时，每周一到两次作为实验室助教，在为期2小时的会议中回答与实验室设置相关的问题（例如，IDE设置、ssh）以及编程问题。",
+            "image": "imperial-lab.jpg",
+            "padding": 0,
+            "link": {
+                "text": "点此查看我每周的PPT会议记录",
+                "link": "https://www.linkedin.com/in/zhaoxuan0914/"
+            }
+        },
+        {
+            "title": "Fall Detector",
+            "time": "Arm公司2021 SPARKING THE WROLD'S POTENTIAL黑客马拉松",
+            "description": "使用OpenCV和姿势估计库构建了一个跌倒检测系统原型，可以检测到任何人的跌倒，并立即通过电子邮件向照顾者报告。这对医院和养老院等照料老年人的场所非常有用，特别是在通知照顾者某位患者或老年人跌倒时。该原型利用特定姿势估计点的垂直坐标位移量来检测跌倒事件。",
+            "image": "arm-hackathon.jpg",
+            "padding": 0
+        },
+        {
+            "title": "ARM公司2021本科生兼职计划 (PTUG) 员工",
+            "description": "在Morello内核团队工作，预计学习Armv8和Linux内核，并最终参与内核和Morello集成工作的测试。预计明年也将继续进行该项目。",
+            "image": "arm-logo.svg",
+            "link": {
+                "link": "https://careers.arm.com/search-jobs?acm=8109424,8123792&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]",
+                "text": "点此查看ARM PTUG招聘信息"
+            },
+            "padding": 20,
+            "time": "2021年6月开始兼职，2021年7月至9月全职"
+        },
+        {
+            "description": "本来应该在2021年夏季加入Netduma，帮助公司构建最新的DumaOS，这是一个将部署在他们的新产品上的路由器系统。我的责任包括为DumaOS编写新功能，维护DumaOS，并与ODM和芯片制造商合作，将DumaOS移植到新的硬件上。",
+            "image": "",
+            "link": {
+                "link": "https://netduma.com",
+                "text": "点此查看公司官网"
+            },
+            "padding": 100,
+            "time": "原定为2021年夏季全职实习生",
+            "title": "已取消: Netduma操作系统工程师"
+        },
+        {
+            "description": "Niched是一个网络应用程序，帮助学生发现他们大学内的微型社区。他们可以创建新的社区/空间，发起和组织活动，发布文本或媒体内容，并通过评论与其他同学进行交流。我们使用Vue.js和Element+ UI库开发了前端页面，使用FastAPI + MongoDB开发了后端，包括使用JWT进行登录和注册功能。",
+            "image": "niched-app.jpg",
+            "link": {
+                "link": "https://github.com/zhao-xuan/Niched-Frontend",
+                "text": "点此查看项目代码仓库"
+            },
+            "padding": 0,
+            "time": "大二Design for Real People小组项目",
+            "title": "Niched"
+        },
+        {
+            "description": "开发了一家公司的财务管理平台，既包括管理端，也包括员工端。前端使用了React.js，后端使用了Flask。使用OpenCV实现了二维码扫描功能。主要功能包括以类似Google表格的方式创建表单模板，创建表单处理流程，管理员工账户和银行信息，最重要的是记录员工的费用和薪酬状态。",
+            "image": "swift-assist.JPG",
+            "padding": 0,
+            "time": "2021年春季开始的兼职工作",
+            "title": "Swift Assist"
+        },
+        {
+            "description": "在LeetCode Cup 2021春季小组赛中解决了6个问题中的3个。团队在全国范围内排名前100或前3.4％。该比赛仅在LeetCode中国站点内进行。",
+            "image": "leetcode-spring-2021.jpg",
+            "padding": 0,
+            "time": "在2021年春季，团队在全国范围内进入了前100名，排名前3.4%。",
+            "title": "LeetCode Cup 2021春季小组赛"
+        },
+        {
+            "description": "实现了一个WACC语言编译器，能够生成Armv6/Arm11架构汇编和Intel x86-64。WACC是一种简单的语言，其语法类似于C/Pascal，旨在教育目的。使用ANTLR工具生成语言解析器，并使用生成的解析器构建语法树，在此过程中构建符号表，并执行语法和语义检查，如果出现任何语法或语义错误，则生成错误消息。WACC编译器能够分析基本的控制流，包括if-else语句、for/while循环、switch语句以及break/continue语句。它支持基本类型、指针类型和结构体类型，以及函数和嵌套函数。它还支持导入第三方库、本地的List、Map和Set，系统调用（read、print、exit等）和-O1级别的编译器优化。",
+            "image": "wacc-compiler.JPG",
+            "padding": 0,
+            "time": "大二编译器小组作业",
+            "title": "WACC 语言编译器"
+        },
+        {
+            "description": "与其他三位团队成员一起开发了一个简单的操作系统。实现包括基于时间片的轮转调度器和基于进程CPU时间的优先级调度器，同步机制（包括锁、信号量和监视器）。实现了用户空间程序的执行/运行以及几个标准的Unix系统调用，如文件的打开（open()）和关闭（close()）。实现了虚拟内存和页管理，包括页面分配、写时复制和共享页面、内存映射文件以及基于Second-Change算法的页面交换。我们团队的所有与内存管理相关的实现选择都是原创的。",
+            "image": "pintos.png",
+            "padding": 0,
+            "time": "大二操作系统小组作业",
+            "title": "Pintos 操作系统"
+        },
+        {
+            "description": "核心职责包括为公司开发DevOps页面，编写公司的dToF SPAD传感器模拟器的初始版本以及虚拟驱动程序。负责将高通Hexagon DSP模块和Camss模块从CodeAurora分支移植到AOSP主线内核。",
+            "image": "adaps-logo.jpeg",
+            "link": {
+                "link": "http://adapsphotonics.com",
+                "text": "点此查看公司官网"
+            },
+            "padding": 50,
+            "time": "2020年秋季的兼职实习",
+            "title": "固件工程师 @ 灵明光子"
+        },
+        {
+            "description": "在LeetCode Cup 2020秋季个人赛中解决了5个问题中的3个。在全国范围内排名前500名或前4.7%。该比赛仅在LeetCode中国站点内进行。",
+            "image": "leetcode-fall-2020.png",
+            "padding": 0,
+            "time": "在2020年夏季，团队在全国范围内进入了前500名，排名前4.7%。",
+            "title": "LeetCode Cup 2020秋季个人赛"
+        },
+        {
+            "description": "负责开发PSUI（潜在地在公司的各个产品中使用），使用React.js、Sass以及Storybook和Jest等工具，为VPN和分析产品构建可靠的界面。编写了一个Python脚本，将Mocha/Chai转换为带有Enzyme的Jest。使用Amex开发的jest-image-snapshot构建了视觉回归测试。",
+            "image": "pulse-secure.jpeg",
+            "padding": 0,
+            "time": "2020年夏季全职为期10周的实习",
+            "title": "Pulse Secure软件工程师实习生"
+        },
+        {
+            "description": "负责构建使用遗传算法的人工智能，并对保守型和冒险型AI进行了优化。同时还实现了使用强化学习的另一个AI。使用ncurse构建了命令行界面，并使用C实现了适用于Raspberry Pi的版本。人们可以通过在LED屏幕上使用不同的传感器来进行游戏。",
+            "image": "tetris-plus-plus.JPG",
+            "padding": 0,
+            "link": {
+                "link": "https://github.com/zhao-xuan/TetrisPlusPlus",
+                "text": "点此查看项目代码仓库"
+            },
+            "time": "大一小组项目Extension: 帝国理工学院大一年级最佳整体C语言小组项目",
+            "title": "Tetris++"
+        },
+        {
+            "description": "构建了ARM11模拟器和汇编器，支持四种基本类型的ARMv6/ARM11指令集。在模拟器和汇编器中使用了函数指针和宏函数。在模拟器中实现了一个解码器，用于解码二进制指令。在汇编器中实现了哈希表和标记器，将汇编指令转换为二进制代码。",
+            "image": "arm-emulator.png",
+            "padding": 0,
+            "link": {
+                "link": "https://github.com/zhao-xuan/ARM11-Project",
+                "text": "点此查看项目代码仓库"
+            },
+            "time": "帝国理工学院大一年级最佳整体C语言小组项目",
+            "title": "Arm11 指令模拟器"
+        },
+        {
+            "description": "一个帮助人们学习新语言的音乐播放器。与两名本科生合作创建了NLP数据库和前端。使用React.js和相关的npm工具构建了逐词翻译的滚动歌词界面和播放器。使用Python和jiagu库对歌词进行自然语言处理，包括分词和词汇分类等。使用Python中的网易云音乐盒来获取音乐和歌词数据。",
+            "image": "ic-hack-logo.jpeg",
+            "link": {
+                "link": "https://devpost.com/software/linguomusic",
+                "text": "点此查看项目代码仓库"
+            },
+            "padding": 0,
+            "time": "帝国理工学院 2020 ICHack 黑客马拉松项目",
+            "title": "LinguoMusic"
+        },
+        {
+            "description": "构建了一个适用于AutoCAD的云平台。设计了RESTful API。使用Java和Spring框架以及MySQL开发后端。通过Spring Security和JWT实现了身份验证。协助使用React.js和Ant Design UI构建前端。",
+            "image": "autodesk-logo.jpeg",
+            "padding": 0,
+            "time": "2019年10月至2020年2月",
+            "title": "CAD Connect"
+        },
+        {
+            "description": "一个针对OpenWRT系统的插件。前端使用JavaScript与chart.js、jQuery和Bootstrap，后端使用Python与Flask和SQLite。它可以定期从OpenWRT路由器系统中提取每个主机的互联网使用信息，包括MAC地址、下载和上传统计，并将其可视化为网页上的图表。",
+            "image": "openwrt-monitor.jpeg",
+            "link": {
+                "link": "https://github.com/zhao-xuan/Openwrt-Internet-Monitor",
+                "text": "点此查看项目代码仓库"
+            },
+            "padding": 0,
+            "time": "2019年11月",
+            "title": "基于 OpenWRT 的网络用量监测软件"
+        },
+        {
+            "description": "开始在伦敦帝国理工学院计算机系学习。学到了许多新知识：Haskell、高级Java多线程编程、SQL和数据库设计、计算机硬件和体系结构、汇编语言和编译器等等。",
+            "image": "imperial-logo.jpeg",
+            "link": {
+                "link": "https://www.imperial.ac.uk",
+                "text": "点此查看学校官网"
+            },
+            "padding": 0,
+            "time": "2019年9月开始入读",
+            "title": "就读于帝国理工学院"
+        }
+    ],
+    "title": "近期项目/动态"
+}

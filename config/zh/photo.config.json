@@ -1,0 +1,326 @@
+{
+    "covers": [
+        {
+            "filter": "uk london",
+            "image": "album-cover-uk-0.jpeg",
+            "title": "金丝雀码头",
+            "location": "英国伦敦",
+            "position": "col-lg-4 col-md-6",
+            "description": "这些照片大多是在我和Peter一起在Canary Wharf度过的3个月期间拍摄的，当时Meta为他提供了公司住房。能住在这个美丽而现代的区域真是一种幸福。每次我经过这里，我都感觉非常棒 :P",
+            "link": "https://www.icloud.com/sharedalbum/#B0uG6XBuboTlW4",
+            "id": "canary-wharf"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-0.jpeg",
+            "location": "美国加利福尼亚州的马林县、湾区等地",
+            "title": "旧金山",
+            "position": "col-lg-5 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "san-francisco"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-1.jpeg",
+            "location": "中国内蒙古包头",
+            "title": "我的家乡",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "my-hometown"
+        },
+        {
+            "filter": "uk live",
+            "image": "album-cover-3.jpeg",
+            "location": "英国伦敦",
+            "title": "伦敦现场音乐会 2021-2023",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "live-concert-2021-2023-in-london"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-2.jpeg",
+            "location": "英国伦敦",
+            "title": "肯辛顿、切尔西和巴特西区",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "kensington-chelsea-and-battersea"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-3.jpeg",
+            "location": "英国北爱尔兰的贝尔法斯特、都柏林、加尔韦等地",
+            "title": "爱尔兰之旅",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "ireland-journey"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-4.jpeg",
+            "location": "日本东京",
+            "title": "日本之行和TeamLab",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "japan-trip-teamlab"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "英国剑桥郡",
+            "title": "剑桥",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "cambridge"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国加利福尼亚州的旧金山、圣何塞等地",
+            "title": "2022年西海岸之行",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "2022-trip-to-the-west-coast"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国纽约",
+            "title": "纽约市多年来的回顾和2023年东海岸之行",
+            "position": "col-lg-5 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "new-york-city-over-the-years-2023-east-coast-trip"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国马萨诸塞州",
+            "title": "波士顿多年来的回顾",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "boston-over-the-years"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-5.jpeg",
+            "location": "英国威斯敏斯特、南沃克、皮卡迪利广场等地",
+            "title": "伦敦城市",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "city-of-london"
+        },
+        {
+            "filter": "uk london",
+            "image": "album-cover-5.jpeg",
+            "location": "伦敦海德公园、摄政公园、樱草山等地",
+            "title": "伦敦皇家公园",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "royal-parks-in-london"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "英国布莱顿、七姐妹崖、莱德、山克林等地",
+            "title": "布莱顿和怀特岛",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "brighton-isle-of-wight"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "英国温德米尔、凯西克、利物浦、利兹、考文垂",
+            "title": "英国湖区和中西部",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "lake-district-mid-west-uk"
+        },
+        {
+            "filter": "uk",
+            "image": "album-cover-5.jpeg",
+            "location": "英国苏格兰",
+            "title": "爱丁堡和格拉斯哥",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "edinburgh-glasgow"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "瑞士苏黎世、策尔马特、卢塞恩",
+            "title": "瑞士之行",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "trip-in-switzerland"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "斯瓦尔巴、冰岛、挪威",
+            "title": "北欧之行",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "northern-europe"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "荷兰的阿姆斯特丹、海牙、鹿特丹",
+            "title": "荷兰之行",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "trip-to-netherland"
+        },
+        {
+            "filter": "eu",
+            "image": "album-cover-5.jpeg",
+            "location": "法国的巴黎、巴塞罗那和里斯本",
+            "title": "法国、西班牙和葡萄牙",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "france-spain-and-portugal"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国北京",
+            "title": "北京",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "beijing"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国上海、扬州、杭州",
+            "title": "江浙沪/长三角地区",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "shanghai-yangtze-delta-city-group"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国重庆和四川",
+            "title": "重庆和成都",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "chongqing-chengdu"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国三亚",
+            "title": "海南之行",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "trip-to-hainan"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国香港特别行政区",
+            "title": "香港",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "hong-kong"
+        },
+        {
+            "filter": "cn",
+            "image": "album-cover-5.jpeg",
+            "location": "中国山东和福建",
+            "title": "青岛和厦门",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "qingdao-xiamen"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国洛杉矶、圣莫尼卡、尔湾、加州圣迭戈和拉霍亚湾",
+            "title": "洛杉矶和圣迭戈",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "la-and-san-diego"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国华盛顿、费城、伊萨卡、纽黑文等地",
+            "title": "东海岸多年来的回顾",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "east-coast-collection-over-the-years"
+        },
+        {
+            "filter": "us",
+            "image": "album-cover-5.jpeg",
+            "location": "美国佐治亚州亚特兰大",
+            "title": "亚特兰大",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "",
+            "id": "atlanta"
+        }
+    ],
+    "tags": [
+        {
+            "label": "*",
+            "name": "所有照片"
+        },
+        {
+            "label": ".us",
+            "name": "🇺🇸美国"
+        },
+        {
+            "label": ".london",
+            "name": "🎡伦敦"
+        },
+        {
+            "label": ".uk",
+            "name": "🇬🇧英国和🇮🇪爱尔兰"
+        },
+        {
+            "label": ".cn",
+            "name": "🇨🇳中国/亚洲"
+        },
+        {
+            "label": ".eu",
+            "name": "🇪🇺欧洲"
+        },
+        {
+            "label": ".live",
+            "name": "🎵现场音乐会"
+        }
+    ],
+    "title": "我的照片库",
+    "display_number": 70
+}

@@ -1,0 +1,40 @@
+{
+  "social_media": [
+    {
+      "icon": "fab, facebook",
+      "link": "https://www.facebook.com/xuan.zhao.14019",
+      "name": "Facebook"
+    },
+    {
+      "icon": "fab, instagram",
+      "link": "https://www.instagram.com/tomzhao1999",
+      "name": "Instagram"
+    },
+    {
+      "icon": "fab, github",
+      "link": "https://www.github.com/zhao-xuan",
+      "name": "Github"
+    },
+    {
+      "icon": "fab, linkedin",
+      "link": "https://www.linkedin.com/in/zhaoxuan0914/",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "fab, weixin",
+      "link": "javascript:alert('My WeChat ID: BetaXuan');",
+      "name": "WeChat"
+    },
+    {
+      "icon": "fab, telegram",
+      "link": "https://t.me/tomzhao0914",
+      "name": "Telegram"
+    },
+    {
+      "icon": "fab, whatsapp",
+      "link": "https://wa.me/447421471909",
+      "name": "Whatsapp"
+    }
+  ],
+  "text": "版权所有 \u00a9 2023 赵炫 保留所有权 <br /> 该网页由本人设计并创建"
+}

@@ -1,0 +1,25 @@
+{
+    "intro_images": [
+        {
+            "path": "bg.jpeg",
+            "color": "rgb(138, 198, 221)"
+        }
+    ],
+    "login": "tomzhao",
+    "subtitle": "Computing Graduate 23' (MEng) 🎓 @ IMPERIAL COLLEGE LONDON\nSoftware Engineer @ Microsoft A4O\nTravel | Photography | Tech | Music & Movies",
+    "title": "This is <span class='highlight'>Tom Zhao</span>",
+    "links": [
+        {
+            "icon": "file",
+            "html": "&nbsp;Resume: <a class='highlight' href=''>As a Professional</a> | <a class='highlight' href=''>As a Human</a>"
+        },
+        {
+            "icon": "blog",
+            "html": "Blog: <a class='highlight' href='http://blog.tomzhao.me/?page_id=63'>Study Blog</a> | <a class='highlight' href='http://blog.tomzhao.me/?page_id=60'>Life Blog</a>"
+        },
+        {
+            "icon": "music",
+            "html": "Playlist: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a>"
+        }
+    ]
+}
