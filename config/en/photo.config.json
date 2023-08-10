@@ -2,7 +2,7 @@
     "covers": [
         {
             "filter": "uk london",
-            "image": "album-cover-uk-0.jpeg",
+            "image": "/photo_album_cover/canary-wharf-1.jpg",
             "title": "Canary Wharf",
             "location": "London, United Kingdom",
             "position": "col-lg-4 col-md-6",
@@ -12,7 +12,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-0.jpeg",
+            "image": "/photo_album_cover/sf-1.jpg",
             "location": "Marin County, Bay Area, and more, California, U.S.",
             "position": "col-lg-5 col-md-6",
             "title": "San Francisco",
@@ -22,7 +22,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-1.jpeg",
+            "image": "/photo_album_cover/baotou-1.heic",
             "location": "Baotou, Inner Mongolia, China",
             "position": "col-lg-3 col-md-6",
             "title": "My Hometown",
