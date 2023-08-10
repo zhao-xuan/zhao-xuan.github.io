@@ -22,17 +22,17 @@
     },
     {
       "icon": "fab, weixin",
-      "link": "javascript:alert('My WeChat ID: BetaXuan');",
+      "link": "javascript:alert('Removed due to spamming!');",
       "name": "WeChat"
     },
     {
       "icon": "fab, telegram",
-      "link": "https://t.me/tomzhao0914",
+      "link": "javascript:alert('Removed due to spamming!');",
       "name": "Telegram"
     },
     {
       "icon": "fab, whatsapp",
-      "link": "https://wa.me/447421471909",
+      "link": "javascript:alert('Removed due to spamming!');",
       "name": "Whatsapp"
     }
   ],
