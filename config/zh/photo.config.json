@@ -82,7 +82,7 @@
         },
         {
             "filter": "us",
-            "image": "/photo_album_cover/sf-trip-1.heic",
+            "image": "/photo_album_cover/sf-trip-1.jpg",
             "location": "美国加利福尼亚州的旧金山、圣何塞等地",
             "title": "2022年西海岸之行",
             "position": "col-lg-3 col-md-6",
@@ -132,7 +132,7 @@
         },
         {
             "filter": "uk",
-            "image": "/photo_album_cover/brighton-1.heic",
+            "image": "/photo_album_cover/brighton-1.jpg",
             "location": "英国布莱顿、七姐妹崖、莱德、山克林等地",
             "title": "布莱顿和怀特岛",
             "position": "col-lg-2 col-md-6",
