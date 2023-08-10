@@ -172,7 +172,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/nothern-eu-4.heic",
+            "image": "/photo_album_cover/northern-eu-4.heic",
             "location": "斯瓦尔巴、冰岛、挪威",
             "title": "北欧之行",
             "position": "col-lg-4 col-md-6",
@@ -195,7 +195,7 @@
             "image": "/photo_album_cover/spain-france-1.heic",
             "location": "法国的巴黎、巴塞罗那和里斯本",
             "title": "法国、西班牙和葡萄牙",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5fk75vWYe2D",
             "id": "france-spain-and-portugal"
@@ -205,7 +205,7 @@
             "image": "/photo_album_cover/beijing-1.jpg",
             "location": "中国北京",
             "title": "北京",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5idkMwwpGlh",
             "id": "beijing"
@@ -215,17 +215,17 @@
             "image": "/photo_album_cover/shanghai-3.heic",
             "location": "中国上海、扬州、杭州",
             "title": "江浙沪/长三角地区",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-4 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5GH8MqvzVYh",
             "id": "shanghai-yangtze-delta-city-group"
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/chongiqng-1.heic",
+            "image": "/photo_album_cover/chongqing-1.heic",
             "location": "中国重庆和四川",
             "title": "重庆和成都",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGFssfGGwhxlR",
             "id": "chongqing-chengdu"
@@ -255,7 +255,7 @@
             "image": "/photo_album_cover/atlanta-1.heic",
             "location": "美国佐治亚州亚特兰大",
             "title": "亚特兰大",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGdIshaGzIdU8",
             "id": "atlanta"
