@@ -32,9 +32,9 @@
         },
         {
             "filter": "uk live",
-            "image": "album-cover-3.jpeg",
+            "image": "/photo_album_cover/live-concert-1.jpg",
             "location": "London, United Kingdom",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "title": "Live Concert 2021-2023 in London",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5n8hH4GEQfBD",
@@ -42,9 +42,9 @@
         },
         {
             "filter": "uk london",
-            "image": "album-cover-2.jpeg",
+            "image": "/photo_album_cover/kensington-1.heic",
             "location": "London, United Kingdom",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "title": "Kensington, Chelsea, and Battersea",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGI9HKKGa6JHj",
@@ -52,9 +52,9 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-3.jpeg",
+            "image": "/photo_album_cover/ireland-1.jpg",
             "location": "Belfast, Dublin & Galway, Northern Ireland (U.K.) & Ireland",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "title": "Ireland Journey",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5yeZFhJkmnL",
@@ -62,9 +62,9 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-4.jpeg",
+            "image": "/photo_album_cover/japan-1.heic",
             "location": "Tokyo, Japan",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "title": "Japan Trip & Teamlab",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u59UlCqQrW8N",
@@ -72,7 +72,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/cambridge-1.jpg",
             "location": "Cambridgeshire, United Kingdom",
             "position": "col-lg-4 col-md-6",
             "title": "Cambridge",
@@ -82,7 +82,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/sf-trip-1.heic",
             "location": "San Francisco, San Jose and more around the Bay Area, California, U.S.",
             "position": "col-lg-3 col-md-6",
             "title": "2022 Trip to the West Coast",
@@ -92,7 +92,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/nyc-1.jpg",
             "location": "New York, U.S.",
             "position": "col-lg-5 col-md-6",
             "title": "New York City over the years + 2023 East Coast Trip",
@@ -102,7 +102,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/boston-1.heic",
             "location": "Massachusetts, U.S.",
             "position": "col-lg-4 col-md-6",
             "title": "Boston over the years",
@@ -112,7 +112,7 @@
         },
         {
             "filter": "uk london",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/city-of-london-1.heic",
             "location": "Westminster, Southwark, Picadilly Circus and more, United Kingdom",
             "position": "col-lg-3 col-md-6",
             "title": "City of London",
@@ -122,7 +122,7 @@
         },
         {
             "filter": "uk london",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/london-park-1.jpg",
             "location": "Hyde Park, Regent's Park, Primrose Hill, etc.",
             "position": "col-lg-3 col-md-6",
             "title": "Royal Parks in London",
@@ -132,7 +132,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/brighton-1.heic",
             "location": "Brighton, Seven Sister Cliff, Ryde, Shanklin, United Kingdom",
             "position": "col-lg-2 col-md-6",
             "title": "Brighton & Isle of Wight",
@@ -142,7 +142,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/lake-district-1.heic",
             "location": "Windermere & Keswick, Liverpool, Leeds, Coventry",
             "position": "col-lg-2 col-md-6",
             "title": "Lake District & Mid-West UK",
@@ -152,7 +152,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/edinburgh-1.heic",
             "location": "Scotland, United Kingdom",
             "position": "col-lg-2 col-md-6",
             "title": "Edinburgh & Glasgow",
@@ -162,7 +162,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/switzerland-1.heic",
             "location": "Zurich, Zermatt, Lucern, Switzerland",
             "position": "col-lg-4 col-md-6",
             "title": "Trip in Switzerland",
@@ -172,7 +172,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/nothern-eu-4.heic",
             "location": "Svalbard, Iceland, Norway",
             "position": "col-lg-4 col-md-6",
             "title": "Northern Europe",
@@ -182,7 +182,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/netherland-1.heic",
             "location": "Amsterdam, The Hague, Rotterdam, Netherland",
             "position": "col-lg-2 col-md-6",
             "title": "Trip to Netherland",
@@ -192,7 +192,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/spain-france-1.heic",
             "location": "Paris, Barcelona, and Lisbon",
             "position": "col-lg-2 col-md-6",
             "title": "France, Spain, and Portugal",
@@ -202,7 +202,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/beijing-1.jpg",
             "location": "Beijing, China",
             "position": "col-lg-2 col-md-6",
             "title": "Beijing",
@@ -212,7 +212,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/shanghai-3.heic",
             "location": "Shanghai, Yangzhou, Hangzhou, China",
             "position": "col-lg-2 col-md-6",
             "title": "Shanghai & Yangtze Delta City Group",
@@ -222,7 +222,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/chongiqng-1.heic",
             "location": "Chongqing and Sichuan, China",
             "position": "col-lg-2 col-md-6",
             "title": "Chongqing & Chengdu",
@@ -232,7 +232,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/la-2.jpg",
             "location": "Los Angeles, Santa Monica, Irvine, UCSD and La Jolla Cove, California, U.S.",
             "position": "col-lg-3 col-md-6",
             "title": "LA and San Diego",
@@ -242,7 +242,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/east-coast-1.heic",
             "location": "Washington, Philadelphia, Ithaca, New Haven and more, U.S.",
             "position": "col-lg-3 col-md-6",
             "title": "East Coast Collection over the years",
@@ -252,7 +252,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/atlanta-1.heic",
             "location": "Atlanta, Georgia, U.S.",
             "position": "col-lg-2 col-md-6",
             "title": "Atlanta",

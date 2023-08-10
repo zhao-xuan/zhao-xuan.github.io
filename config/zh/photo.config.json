@@ -32,47 +32,47 @@
         },
         {
             "filter": "uk live",
-            "image": "album-cover-3.jpeg",
+            "image": "/photo_album_cover/live-concert-1.jpg",
             "location": "英国伦敦",
             "title": "伦敦现场音乐会 2021-2023",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5n8hH4GEQfBD",
             "id": "live-concert-2021-2023-in-london"
         },
         {
             "filter": "uk london",
-            "image": "album-cover-2.jpeg",
+            "image": "/photo_album_cover/kensington-1.heic",
             "location": "英国伦敦",
             "title": "肯辛顿、切尔西和巴特西区",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGI9HKKGa6JHj",
             "id": "kensington-chelsea-and-battersea"
         },
         {
             "filter": "uk",
-            "image": "album-cover-3.jpeg",
+            "image": "/photo_album_cover/ireland-1.jpg",
             "location": "英国北爱尔兰的贝尔法斯特、都柏林、加尔韦等地",
             "title": "爱尔兰之旅",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u5yeZFhJkmnL",
             "id": "ireland-journey"
         },
         {
             "filter": "cn",
-            "image": "album-cover-4.jpeg",
+            "image": "/photo_album_cover/japan-1.heic",
             "location": "日本东京",
             "title": "日本之行和TeamLab",
-            "position": "col-lg-2 col-md-6",
+            "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u59UlCqQrW8N",
             "id": "japan-trip-teamlab"
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/cambridge-1.jpg",
             "location": "英国剑桥郡",
             "title": "剑桥",
             "position": "col-lg-4 col-md-6",
@@ -82,7 +82,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/sf-trip-1.heic",
             "location": "美国加利福尼亚州的旧金山、圣何塞等地",
             "title": "2022年西海岸之行",
             "position": "col-lg-3 col-md-6",
@@ -92,7 +92,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/nyc-1.jpg",
             "location": "美国纽约",
             "title": "纽约市多年来的回顾和2023年东海岸之行",
             "position": "col-lg-5 col-md-6",
@@ -102,7 +102,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/boston-1.heic",
             "location": "美国马萨诸塞州",
             "title": "波士顿多年来的回顾",
             "position": "col-lg-4 col-md-6",
@@ -112,7 +112,7 @@
         },
         {
             "filter": "uk london",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/city-of-london-1.heic",
             "location": "英国威斯敏斯特、南沃克、皮卡迪利广场等地",
             "title": "伦敦城市",
             "position": "col-lg-3 col-md-6",
@@ -122,7 +122,7 @@
         },
         {
             "filter": "uk london",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/london-park-1.jpg",
             "location": "伦敦海德公园、摄政公园、樱草山等地",
             "title": "伦敦皇家公园",
             "position": "col-lg-3 col-md-6",
@@ -132,7 +132,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/brighton-1.heic",
             "location": "英国布莱顿、七姐妹崖、莱德、山克林等地",
             "title": "布莱顿和怀特岛",
             "position": "col-lg-2 col-md-6",
@@ -142,7 +142,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/lake-district-1.heic",
             "location": "英国温德米尔、凯西克、利物浦、利兹、考文垂",
             "title": "英国湖区和中西部",
             "position": "col-lg-2 col-md-6",
@@ -152,7 +152,7 @@
         },
         {
             "filter": "uk",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/edinburgh-1.heic",
             "location": "英国苏格兰",
             "title": "爱丁堡和格拉斯哥",
             "position": "col-lg-2 col-md-6",
@@ -162,7 +162,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/switzerland-1.heic",
             "location": "瑞士苏黎世、策尔马特、卢塞恩",
             "title": "瑞士之行",
             "position": "col-lg-4 col-md-6",
@@ -172,7 +172,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/nothern-eu-4.heic",
             "location": "斯瓦尔巴、冰岛、挪威",
             "title": "北欧之行",
             "position": "col-lg-4 col-md-6",
@@ -182,7 +182,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/netherland-1.heic",
             "location": "荷兰的阿姆斯特丹、海牙、鹿特丹",
             "title": "荷兰之行",
             "position": "col-lg-2 col-md-6",
@@ -192,7 +192,7 @@
         },
         {
             "filter": "eu",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/spain-france-1.heic",
             "location": "法国的巴黎、巴塞罗那和里斯本",
             "title": "法国、西班牙和葡萄牙",
             "position": "col-lg-2 col-md-6",
@@ -202,7 +202,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/beijing-1.jpg",
             "location": "中国北京",
             "title": "北京",
             "position": "col-lg-2 col-md-6",
@@ -212,7 +212,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/shanghai-3.heic",
             "location": "中国上海、扬州、杭州",
             "title": "江浙沪/长三角地区",
             "position": "col-lg-2 col-md-6",
@@ -222,7 +222,7 @@
         },
         {
             "filter": "cn",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/chongiqng-1.heic",
             "location": "中国重庆和四川",
             "title": "重庆和成都",
             "position": "col-lg-2 col-md-6",
@@ -232,7 +232,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/la-2.jpg",
             "location": "美国洛杉矶、圣莫尼卡、尔湾、加州圣迭戈和拉霍亚湾",
             "title": "洛杉矶和圣迭戈",
             "position": "col-lg-3 col-md-6",
@@ -242,7 +242,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/east-coast-1.heic",
             "location": "美国华盛顿、费城、伊萨卡、纽黑文等地",
             "title": "东海岸多年来的回顾",
             "position": "col-lg-3 col-md-6",
@@ -252,7 +252,7 @@
         },
         {
             "filter": "us",
-            "image": "album-cover-5.jpeg",
+            "image": "/photo_album_cover/atlanta-1.heic",
             "location": "美国佐治亚州亚特兰大",
             "title": "亚特兰大",
             "position": "col-lg-2 col-md-6",
