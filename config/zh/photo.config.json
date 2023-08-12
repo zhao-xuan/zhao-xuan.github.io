@@ -2,7 +2,7 @@
     "covers": [
         {
             "filter": "uk london",
-            "image": "/photo_album_cover/canary-wharf-2.jpg",
+            "image": "/photo_album_cover/canary-wharf-3.jpg",
             "title": "金丝雀码头",
             "location": "英国伦敦",
             "position": "col-lg-4 col-md-6",
@@ -112,7 +112,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/hong-kong-2.jpg",
+            "image": "/photo_album_cover/hong-kong-3.jpg",
             "location": "香港，厦门，青岛，三亚，中国",
             "position": "col-lg-2 col-md-6",
             "title": "香港及中国沿海城市",
