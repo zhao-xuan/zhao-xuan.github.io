@@ -105,10 +105,20 @@
             "image": "/photo_album_cover/boston-1.heic",
             "location": "美国马萨诸塞州",
             "title": "波士顿多年来的回顾",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-2 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGfnH8tdJsRo",
             "id": "boston-over-the-years"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/hong-kong-1.jpg",
+            "location": "Hong Kong, Sanya, Tsingdao, Xiamen",
+            "position": "col-lg-2 col-md-6",
+            "title": "Hong Kong, Hainan, and Coastal Cities in China",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B0uGQOeMmGNYheY",
+            "id": "hong-kong-and-coastal"
         },
         {
             "filter": "uk london",

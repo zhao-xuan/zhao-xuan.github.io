@@ -104,11 +104,21 @@
             "filter": "us",
             "image": "/photo_album_cover/boston-1.heic",
             "location": "Massachusetts, U.S.",
-            "position": "col-lg-4 col-md-6",
+            "position": "col-lg-2 col-md-6",
             "title": "Boston over the years",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGfnH8tdJsRo",
             "id": "boston-over-the-years"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/hong-kong-1.jpg",
+            "location": "Hong Kong, Sanya, Tsingdao, Xiamen",
+            "position": "col-lg-2 col-md-6",
+            "title": "Hong Kong, Hainan, and Coastal Cities in China",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B0uGQOeMmGNYheY",
+            "id": "hong-kong-and-coastal"
         },
         {
             "filter": "uk london",
