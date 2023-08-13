@@ -63,8 +63,8 @@
         {
             "filter": "cn",
             "image": "/photo_album_cover/japan-1.heic",
-            "location": "日本东京",
-            "title": "日本之行和TeamLab",
+            "location": "日本东京和镰仓附近",
+            "title": "日本之行2019和2023",
             "position": "col-lg-3 col-md-6",
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0u59UlCqQrW8N",
@@ -203,7 +203,7 @@
         {
             "filter": "eu",
             "image": "/photo_album_cover/spain-france-1.heic",
-            "location": "法国的巴黎、巴塞罗那和里斯本",
+            "location": "巴黎、巴塞罗那和里斯本",
             "title": "法国、西班牙和葡萄牙",
             "position": "col-lg-3 col-md-6",
             "description": "",
