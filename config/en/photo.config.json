@@ -22,7 +22,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/baotou-1.heic",
+            "image": "/photo_album_cover/baotou-1.jpg",
             "location": "Baotou, Inner Mongolia, China",
             "position": "col-lg-3 col-md-6",
             "title": "My Hometown",
@@ -42,7 +42,7 @@
         },
         {
             "filter": "uk london",
-            "image": "/photo_album_cover/kensington-1.heic",
+            "image": "/photo_album_cover/kensington-1.jpg",
             "location": "London, United Kingdom",
             "position": "col-lg-3 col-md-6",
             "title": "Kensington, Chelsea, and Battersea",
@@ -62,7 +62,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/japan-1.heic",
+            "image": "/photo_album_cover/japan-1.jpg",
             "location": "Tokyo and Kamakura, Japan",
             "position": "col-lg-3 col-md-6",
             "title": "Japan Trip 2019 & 2023",
@@ -122,7 +122,7 @@
         },
         {
             "filter": "uk london",
-            "image": "/photo_album_cover/city-of-london-1.heic",
+            "image": "/photo_album_cover/city-of-london-1.jpg",
             "location": "Westminster, Southwark, Picadilly Circus and more, United Kingdom",
             "position": "col-lg-3 col-md-6",
             "title": "City of London",
@@ -152,7 +152,7 @@
         },
         {
             "filter": "uk",
-            "image": "/photo_album_cover/lake-district-1.heic",
+            "image": "/photo_album_cover/lake-district-1.jpg",
             "location": "Windermere & Keswick, Liverpool, Leeds, Coventry",
             "position": "col-lg-2 col-md-6",
             "title": "Lake District & Mid-West UK",
@@ -162,7 +162,7 @@
         },
         {
             "filter": "uk",
-            "image": "/photo_album_cover/edinburgh-1.heic",
+            "image": "/photo_album_cover/edinburgh-1.jpg",
             "location": "Scotland, United Kingdom",
             "position": "col-lg-2 col-md-6",
             "title": "Edinburgh & Glasgow",
@@ -172,7 +172,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/switzerland-1.heic",
+            "image": "/photo_album_cover/switzerland-1.jpg",
             "location": "Zurich, Zermatt, Lucern, Switzerland",
             "position": "col-lg-4 col-md-6",
             "title": "Trip in Switzerland",
@@ -182,7 +182,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/northern-eu-4.heic",
+            "image": "/photo_album_cover/northern-eu-4.jpg",
             "location": "Svalbard, Iceland, Norway",
             "position": "col-lg-4 col-md-6",
             "title": "Northern Europe",
@@ -192,7 +192,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/netherland-1.heic",
+            "image": "/photo_album_cover/netherland-1.jpg",
             "location": "Amsterdam, The Hague, Rotterdam, Netherland",
             "position": "col-lg-2 col-md-6",
             "title": "Trip to Netherland",
@@ -202,7 +202,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/spain-france-1.heic",
+            "image": "/photo_album_cover/spain-france-1.jpg",
             "location": "Paris, Barcelona, and Lisbon",
             "position": "col-lg-3 col-md-6",
             "title": "France, Spain, and Portugal",
@@ -222,7 +222,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/shanghai-3.heic",
+            "image": "/photo_album_cover/shanghai-3.jpg",
             "location": "Shanghai, Yangzhou, Hangzhou, China",
             "position": "col-lg-4 col-md-6",
             "title": "Shanghai & Yangtze Delta City Group",
@@ -232,7 +232,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/chongqing-1.heic",
+            "image": "/photo_album_cover/chongqing-1.jpg",
             "location": "Chongqing and Sichuan, China",
             "position": "col-lg-3 col-md-6",
             "title": "Chongqing & Chengdu",
@@ -252,7 +252,7 @@
         },
         {
             "filter": "us",
-            "image": "/photo_album_cover/east-coast-1.heic",
+            "image": "/photo_album_cover/east-coast-1.jpg",
             "location": "Washington, Philadelphia, Ithaca, New Haven and more, U.S.",
             "position": "col-lg-3 col-md-6",
             "title": "East Coast Collection over the years",
@@ -262,7 +262,7 @@
         },
         {
             "filter": "us",
-            "image": "/photo_album_cover/atlanta-1.heic",
+            "image": "/photo_album_cover/atlanta-1.jpg",
             "location": "Atlanta, Georgia, U.S.",
             "position": "col-lg-3 col-md-6",
             "title": "Atlanta",

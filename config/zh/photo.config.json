@@ -22,7 +22,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/baotou-1.heic",
+            "image": "/photo_album_cover/baotou-1.jpg",
             "location": "中国内蒙古包头",
             "title": "我的家乡",
             "position": "col-lg-3 col-md-6",
@@ -42,7 +42,7 @@
         },
         {
             "filter": "uk london",
-            "image": "/photo_album_cover/kensington-1.heic",
+            "image": "/photo_album_cover/kensington-1.jpg",
             "location": "英国伦敦",
             "title": "肯辛顿、切尔西和巴特西区",
             "position": "col-lg-3 col-md-6",
@@ -62,7 +62,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/japan-1.heic",
+            "image": "/photo_album_cover/japan-1.jpg",
             "location": "日本东京和镰仓附近",
             "title": "日本之行2019和2023",
             "position": "col-lg-3 col-md-6",
@@ -122,7 +122,7 @@
         },
         {
             "filter": "uk london",
-            "image": "/photo_album_cover/city-of-london-1.heic",
+            "image": "/photo_album_cover/city-of-london-1.jpg",
             "location": "英国威斯敏斯特、南沃克、皮卡迪利广场等地",
             "title": "伦敦城市",
             "position": "col-lg-3 col-md-6",
@@ -152,7 +152,7 @@
         },
         {
             "filter": "uk",
-            "image": "/photo_album_cover/lake-district-1.heic",
+            "image": "/photo_album_cover/lake-district-1.jpg",
             "location": "英国温德米尔、凯西克、利物浦、利兹、考文垂",
             "title": "英国湖区和中西部",
             "position": "col-lg-2 col-md-6",
@@ -162,7 +162,7 @@
         },
         {
             "filter": "uk",
-            "image": "/photo_album_cover/edinburgh-1.heic",
+            "image": "/photo_album_cover/edinburgh-1.jpg",
             "location": "英国苏格兰",
             "title": "爱丁堡和格拉斯哥",
             "position": "col-lg-2 col-md-6",
@@ -172,7 +172,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/switzerland-1.heic",
+            "image": "/photo_album_cover/switzerland-1.jpg",
             "location": "瑞士苏黎世、策尔马特、卢塞恩",
             "title": "瑞士之行",
             "position": "col-lg-4 col-md-6",
@@ -182,7 +182,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/northern-eu-4.heic",
+            "image": "/photo_album_cover/northern-eu-4.jpg",
             "location": "斯瓦尔巴、冰岛、挪威",
             "title": "北欧之行",
             "position": "col-lg-4 col-md-6",
@@ -192,7 +192,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/netherland-1.heic",
+            "image": "/photo_album_cover/netherland-1.jpg",
             "location": "荷兰的阿姆斯特丹、海牙、鹿特丹",
             "title": "荷兰之行",
             "position": "col-lg-2 col-md-6",
@@ -202,7 +202,7 @@
         },
         {
             "filter": "eu",
-            "image": "/photo_album_cover/spain-france-1.heic",
+            "image": "/photo_album_cover/spain-france-1.jpg",
             "location": "巴黎、巴塞罗那和里斯本",
             "title": "法国、西班牙和葡萄牙",
             "position": "col-lg-3 col-md-6",
@@ -222,7 +222,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/shanghai-3.heic",
+            "image": "/photo_album_cover/shanghai-3.jpg",
             "location": "中国上海、扬州、杭州",
             "title": "江浙沪/长三角地区",
             "position": "col-lg-4 col-md-6",
@@ -232,7 +232,7 @@
         },
         {
             "filter": "cn",
-            "image": "/photo_album_cover/chongqing-1.heic",
+            "image": "/photo_album_cover/chongqing-1.jpg",
             "location": "中国重庆和四川",
             "title": "重庆和成都",
             "position": "col-lg-3 col-md-6",
@@ -252,7 +252,7 @@
         },
         {
             "filter": "us",
-            "image": "/photo_album_cover/east-coast-1.heic",
+            "image": "/photo_album_cover/east-coast-1.jpg",
             "location": "美国华盛顿、费城、伊萨卡、纽黑文等地",
             "title": "东海岸多年来的回顾",
             "position": "col-lg-3 col-md-6",
@@ -262,7 +262,7 @@
         },
         {
             "filter": "us",
-            "image": "/photo_album_cover/atlanta-1.heic",
+            "image": "/photo_album_cover/atlanta-1.jpg",
             "location": "美国佐治亚州亚特兰大",
             "title": "亚特兰大",
             "position": "col-lg-3 col-md-6",
