@@ -11,7 +11,7 @@
     "links": [
         {
             "icon": "file",
-            "html": "&nbsp;Resume: <a class='highlight' href=''>As a Professional</a> | <a class='highlight' href=''>As a Human</a>"
+            "html": "&nbsp;Resume: <a class='highlight' href='https://github.com/zhao-xuan/zhao-xuan.github.io/blob/main/resources/2-page-resume.pdf'>As a Professional</a> | <a class='highlight' href='javascript:alert('In progress...')'>As a Human</a>"
         },
         {
             "icon": "blog",

@@ -11,7 +11,7 @@
     "links": [
         {
             "icon": "file",
-            "html": "&nbsp;简历: <a class='highlight' href=''>工作简历</a> | <a class='highlight' href=''>个人生活简历</a>"
+            "html": "&nbsp;简历: <a class='highlight' href='https://github.com/zhao-xuan/zhao-xuan.github.io/blob/main/resources/2-page-resume.pdf'>工作简历</a> | <a class='highlight' href='javascript:alert('正在制作中');'>个人生活简历</a>"
         },
         {
             "icon": "blog",
