@@ -22,17 +22,17 @@
     },
     {
       "icon": "fab, weixin",
-      "link": "javascript:alert('Removed due to spamming!');",
+      "link": "javascript:alert('因诈骗等原因，该联系方式已移除!');",
       "name": "WeChat"
     },
     {
       "icon": "fab, telegram",
-      "link": "javascript:alert('Removed due to spamming!');",
+      "link": "javascript:alert('因诈骗等原因，该联系方式已移除!');",
       "name": "Telegram"
     },
     {
       "icon": "fab, whatsapp",
-      "link": "javascript:alert('Removed due to spamming!');",
+      "link": "javascript:alert('因诈骗等原因，该联系方式已移除!');",
       "name": "Whatsapp"
     }
   ],
