@@ -1,8 +1,16 @@
 {
     "intro_images": [
         {
-            "path": "bg.jpeg",
+            "path": "bg-1.jpg",
             "color": "rgb(138, 198, 221)"
+        },
+        {
+            "path": "bg-2.jpg",
+            "color": "rgb(143, 158, 185)"
+        },
+        {
+            "path": "bg-3.jpg",
+            "color": "rgb(203, 99, 61)"
         }
     ],
     "login": "tomzhao",
