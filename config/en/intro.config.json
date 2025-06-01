@@ -1,19 +1,19 @@
 {
     "login": "tomzhao",
-    "subtitle": "Computing Graduate 23' (MEng) 🎓 @ IMPERIAL COLLEGE LONDON\nSoftware Engineer @ Microsoft A4O\nTravel | Photography | Tech | Music & Movies",
+    "subtitle": "🎓 Computing MEng 23' @ Imperial College London\n💼 Software Engineer @ Microsoft UK\n📍 🇨🇳Inner Mongol ➡️ 🇺🇸Bay Area ➡️ 🇬🇧London\n🎯 Travel | Photography | Tech | Music | 🏃🏸🚴🏋️",
     "title": "This is <span class='highlight'>Tom Zhao</span>",
     "links": [
         {
             "icon": "file",
-            "html": "&nbsp;Resume: <a class='highlight' href='https://github.com/zhao-xuan/zhao-xuan.github.io/blob/main/resources/2-page-resume.pdf'>As a Professional</a> | <a class='highlight' href='javascript:alert('In progress...')'>As a Human</a>"
+            "html": "&nbsp;Resume: <a class='highlight' href='https://donkeys-hug-guk.craft.me/ExO6qr5tGcNXCo'>Career</a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/rXb5F2LPOVbUJF'>Life</a>"
         },
         {
             "icon": "blog",
-            "html": "Blog: <a class='highlight' href='http://blog.tomzhao.me/?page_id=63'>Study Blog</a> | <a class='highlight' href='http://blog.tomzhao.me/?page_id=60'>Life Blog</a>"
+            "html": "Blog: <a class='highlight' href='https://donkeys-hug-guk.craft.me/bfb4IAvEuLr6KP'></a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/eP9d58SyTAm7K4'>Learning</a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/5PN22IlSKDWFh7'>Work/Tech</a>"
         },
         {
             "icon": "music",
-            "html": "Playlist: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a>"
+            "html": "Playlist: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a> | <a class='highlight' href='https://music.apple.com/library/playlist/p.9oDKm8Kh3KX1qk'>24'</a> | <a class='highlight' href='https://music.apple.com/library/playlist/p.aJe0LGZc5Ne9GB'></a>"
         }
     ]
 }

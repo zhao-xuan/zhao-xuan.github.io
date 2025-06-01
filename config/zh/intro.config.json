@@ -1,19 +1,19 @@
 {
     "login": "tomzhao",
-    "subtitle": "帝国理工计算机系MEng 23届毕业生🎓\n微软伦敦A4O软件工程师\n旅游 | 摄影 | 科技 | 音乐 & 电影",
+    "subtitle": "🎓帝国理工学院 计算机工程硕士 23届\n💼 微软英国 软件工程师\n📍 🇨🇳内蒙古 ➡️ 🇺🇸湾区 ➡️ 🇬🇧伦敦\n🎯 旅行 | 摄影 | 科技 | 音乐 | 🏃🏸🚴🏋️",
     "title": "这里是 <span class='highlight'>赵炫</span> 的个人主页",
     "links": [
         {
             "icon": "file",
-            "html": "&nbsp;简历: <a class='highlight' href='https://github.com/zhao-xuan/zhao-xuan.github.io/blob/main/resources/2-page-resume.pdf'>工作简历</a> | <a class='highlight' href='javascript:alert('正在制作中');'>个人生活简历</a>"
+            "html": "&nbsp;简历: <a class='highlight' href='https://donkeys-hug-guk.craft.me/ZnxeW0xMXZlH2u'>工作</a> | <a class='highlight' href='javascript:alert('正在制作中');'>生活</a>"
         },
         {
             "icon": "blog",
-            "html": "博客: <a class='highlight' href='http://blog.tomzhao.me/?page_id=63'>学习博客</a> | <a class='highlight' href='http://blog.tomzhao.me/?page_id=60'>生活博客</a>"
+            "html": "博客: <a class='highlight' href='https://donkeys-hug-guk.craft.me/iUIt1vcy1lrp5o'>主页</a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/EfIA0zzNVhp2vU'>学习</a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/JpkWjacWwCq0rf'>生活</a> | <a class='highlight' href='https://donkeys-hug-guk.craft.me/rMni52CWVom8MG'>工作/技术</a>"
         },
         {
             "icon": "music",
-            "html": "音乐列表: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a>"
+            "html": "音乐列表: <a class='highlight' href='https://music.apple.com/us/playlist/replay-2017/pl.rp-1kkvUxQPkvD'>17'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2018/pl.rp-6xxOCajEkpd'>18'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2019/pl.rp-ARRXsbJlG0n'>19'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2020/pl.rp-kDDQcYZA2Mj'>20'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2021/pl.rp-QwwAik2vANL'>21'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2022/pl.rp-wPPYHQBRP9d'>22'</a> | <a class='highlight' href='https://music.apple.com/us/playlist/replay-2023/pl.rp-L22Rsp15XAE'>23'</a> | <a class='highlight' href='https://music.apple.com/library/playlist/p.9oDKm8Kh3KX1qk'>24'</a> | <a class='highlight' href='https://music.apple.com/library/playlist/p.aJe0LGZc5Ne9GB'></a>"
         }
     ]
 }
