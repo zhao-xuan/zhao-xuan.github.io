@@ -1,20 +1,80 @@
 {
     "intro_images": [
         {
-            "path": "bg-1.jpg",
+            "path": "intro/bg-1.jpg",
             "color": "rgb(138, 198, 221)"
         },
         {
-            "path": "bg-2.jpg",
+            "path": "intro/bg-2.jpg",
             "color": "rgb(100, 163, 205)"
         },
         {
-            "path": "bg-3.jpg",
+            "path": "intro/bg-3.jpg",
             "color": "rgb(203, 99, 61)"
         },
         {
-            "path": "bg-4.jpg",
+            "path": "intro/bg-4.jpg",
             "color": "rgb(227, 171, 112)"
+        },
+        {
+            "path": "intro/bg-5.jpg",
+            "color": "rgb(125, 159, 202)"
+        },
+        {
+            "path": "intro/bg-6.jpg",
+            "color": "rgb(203, 178, 95)"
+        },
+        {
+            "path": "intro/bg-7.jpg",
+            "color": "rgb(178, 174, 167)"
+        },
+        {
+            "path": "intro/bg-8.jpg",
+            "color": "rgb(255, 250, 160)"
+        },
+        {
+            "path": "intro/bg-9.jpg",
+            "color": "rgb(70, 128, 206)"
+        },
+        {
+            "path": "intro/bg-10.jpg",
+            "color": "rgb(31, 46, 68)"
+        },
+        {
+            "path": "intro/bg-11.jpg",
+            "color": "rgb(229, 109, 75)"
+        },
+        {
+            "path": "intro/bg-12.jpg",
+            "color": "rgb(66, 104, 158)"
+        },
+        {
+            "path": "intro/bg-13.jpg",
+            "color": "rgb(245, 164, 95)"
+        },
+        {
+            "path": "intro/bg-14.jpg",
+            "color": "rgb(241, 152, 98)"
+        },
+        {
+            "path": "intro/bg-15.jpg",
+            "color": "rgb(189, 208, 227)"
+        },
+        {
+            "path": "intro/bg-16.jpg",
+            "color": "rgb(115, 124, 142)"
+        },
+        {
+            "path": "intro/bg-17.jpg",
+            "color": "rgb(101, 135, 139)"
+        },
+        {
+            "path": "intro/bg-18.jpg",
+            "color": "rgb(229, 149, 127)"
+        },
+        {
+            "path": "intro/bg-19.jpg",
+            "color": "rgb(108, 164, 207)"
         }
     ],
     "quote": {
