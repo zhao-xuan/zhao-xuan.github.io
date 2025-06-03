@@ -5,7 +5,7 @@
             "title": "Incoming Full-time Software Engineer @ Microsoft Azure for Operators",
             "time": "October 2023, my first full-time job after college graduation",
             "description": "I will be joining the Azure for Operators team at Microsoft based in Enfield, London. Originally being the Metaswitch Company, the office/company was bought by Microsoft in 2020 and has now become part of the Azure Cloud Computing group within Microsoft.",
-            "image": "microsoft.jpg",
+            "image": "activities/microsoft.jpg",
             "padding": 0,
             "link": {
                 "text": "See my post on how I landed on Microsoft + my third year application process (in Mandarin)",
@@ -16,7 +16,7 @@
             "title": "Completed as a MEng graduate @ Imperial College London Department of Computing",
             "time": "June 2023, after 4 Years of endeavor at South Kensington",
             "description": "After studying for 4 years at Imperial College London, I will be graduating as a Master of Engineering student from the Department of Computing. This is probably my most difficult yet proudest personal achievement so far. I would like to thank all the peers, friends, and family who supported me throughout this jouney. Most importantly, Peter Zhang who is my life-long partner and best guide I simply cannot find anywhere else.",
-            "image": "imperial-logo.jpeg",
+            "image": "activities/imperial-logo.jpeg",
             "padding": 0,
             "link": {
                 "text": "Link to project repo and report",
@@ -27,7 +27,7 @@
             "title": "Publication @ MIDL 2023",
             "time": "April 2023, first author of a short paper",
             "description": "Publication of my short paper: High-Fidelity Image Synthesis from Pulmonary Nodule Lesion Maps using Semantic Diffusion Model. Successfully made to the Medical Imaging with Deep Learning 2023 Conference. This short paper is also Part I of my final year individual project at Imperial.",
-            "image": "midl2023-logo.png",
+            "image": "activities/midl2023-logo.png",
             "padding": 0,
             "link": {
                 "text": "Link to arxiv",
@@ -38,7 +38,7 @@
             "title": "Microsoft Azure for Operators Intern",
             "time": "6-month placement starting in April 2022",
             "description": "Joined the Azure for Operators team based in Enfield, London. Mainly worked at the Network Software Team under the AP5GC group. Developed a face recognition demo using IP stream to connect multiple cameras to a central server to perform human face recognition as a showcase for the edge computing product. Enhanced internal tool for analysing signals used in process communications inside the proprietary OS/environment.",
-            "image": "microsoft.jpg",
+            "image": "activities/microsoft.jpg",
             "padding": 0,
             "link": {
                 "text": "See my post on how I landed on Microsoft + my third year application process (in Mandarin)",
@@ -48,8 +48,8 @@
         {
             "title": "Magic Wand",
             "time": "IC HACK 22 Best Entertainment Hack",
-            "description": "Yesterday in the #ichack22 our team has built the Magic Wand system utility app, which won the Best Entertainment Hack category prize. It’s a gesture-based cursor control application that allows you to operate your devices without using a trackpad or a mouse. You can open/close a tab in Chrome, or drag a window around using a click and drag gesture, as well as scrolling a webpage and even take a screenshot. Thanks to Zelin (Daniel) Deng‘s smoothing algorithm, Sudarshan Sreeram’s beautiful icon design, and the configuration of ratio aspect of camera and screen, the control is quite precise and is able to cover the entire screen. Thanks to Gavin Wu’s professional video shooting and editing skills, we produced the demo video below to showcase how Magic Wand can be used. In the end, we are able to use it to perform usual mouse behaviours of clicking and dragging, playing games such as Fruit Ninja and Geometry Dash, drawing a binary tree in an online meeting, as well as playing the Google #quickdraw in a browser.",
-            "image": "magic-wand.png",
+            "description": "Yesterday in the #ichack22 our team has built the Magic Wand system utility app, which won the Best Entertainment Hack category prize. It's a gesture-based cursor control application that allows you to operate your devices without using a trackpad or a mouse. You can open/close a tab in Chrome, or drag a window around using a click and drag gesture, as well as scrolling a webpage and even take a screenshot. Thanks to Zelin (Daniel) Deng's smoothing algorithm, Sudarshan Sreeram's beautiful icon design, and the configuration of ratio aspect of camera and screen, the control is quite precise and is able to cover the entire screen. Thanks to Gavin Wu's professional video shooting and editing skills, we produced the demo video below to showcase how Magic Wand can be used. In the end, we are able to use it to perform usual mouse behaviours of clicking and dragging, playing games such as Fruit Ninja and Geometry Dash, drawing a binary tree in an online meeting, as well as playing the Google #quickdraw in a browser.",
+            "image": "activities/magic-wand.png",
             "padding": 0,
             "link": {
                 "text": "See the project repo and the video demo",
@@ -60,7 +60,7 @@
             "title": "AiRNote",
             "time": "Hack Cambridge Atlas 2022 Project Finalist",
             "description": "A collaborative AR notes app for iOS. We created Airnote, a proof-of-concept augmented reality-based iOS application for collaborative notetaking in a shared workspace. The app allows users to transcribe their voice notes in real-time using Deepgram's API and convert them into AR stickies. We got a primitive version of a shared session working through Apple's multi-peer connectivity. However, we found it challenging to get the notes to sync; we do look forward to getting this working soon!",
-            "image": "airnote.jpg",
+            "image": "activities/airnote.jpg",
             "padding": 0,
             "link": {
                 "text": "See the project repo",
@@ -70,8 +70,8 @@
         {
             "title": "Image Processing Engine with GUI",
             "time": "Third year software engineering group project",
-            "description": "Desktop Image Processing Software Built for Research Purposes \u00b7 Developed an image processing software inKotlin and used JavaFX as the GUI framework. My work includes several advanced features such as neural style transfer, depth estimation, steganography,neural-network-based denoise, and false coloring. \u00b7 Used Pytorch to train/trace the denoise, depth detection models and used lib-torch to load the model in Kotlin and perform forward pass. Used mmdnn to convert Tensorflow/Keras model to Pytorch model. \u00b7 Trained 6 different neural style transfer models using Pytorch with cuda on Nvidia GPU, and used jit.tracing to convert pth models into pt models.",
-            "image": "third-year-group-project.png",
+            "description": "Desktop Image Processing Software Built for Research Purposes · Developed an image processing software inKotlin and used JavaFX as the GUI framework. My work includes several advanced features such as neural style transfer, depth estimation, steganography,neural-network-based denoise, and false coloring. · Used Pytorch to train/trace the denoise, depth detection models and used lib-torch to load the model in Kotlin and perform forward pass. Used mmdnn to convert Tensorflow/Keras model to Pytorch model. · Trained 6 different neural style transfer models using Pytorch with cuda on Nvidia GPU, and used jit.tracing to convert pth models into pt models.",
+            "image": "activities/third-year-group-project.png",
             "padding": 0,
             "link": {
                 "text": "See the project repo",
@@ -82,7 +82,7 @@
             "title": "Imperial College London Department of Computing Personal Programming Tutor & Lab UTA",
             "time": "Part-time work from September 2021 to March 2022",
             "description": "Tutoring a group of 9 first-year students. Answer questions related to the weekly Haskell/Java/Kotlin programming exercise, correct code styles, prepare Leetcode challenges and interview tips for tutees, and grade their weekly exercise submissions. Working as a lab UTA once/twice a week in 2-hour sessions answering questions related to lab setup (e.g. IDE setup, ssh), programming questions",
-            "image": "imperial-lab.jpg",
+            "image": "activities/imperial-lab.jpg",
             "padding": 0,
             "link": {
                 "text": "See my PPT weekly meeting notes",
@@ -93,12 +93,12 @@
             "title": "Fall Detector",
             "time": "ARM SPARKING THE WROLD'S POTENTIAL HACKATHON 2021",
             "description": "Built a fall detection system prototype using opencv and a pose estimation library, which can detect any human falls and report to carer using email immediately. This could be useful in hospital and care center for elderly people, particularly in notifying the carer when a patient or elderly falls. The prototype uses the amount of vertical coordinate shift of certain pose estimation points to detect falls.",
-            "image": "arm-hackathon.jpg",
+            "image": "activities/arm-hackathon.jpg",
             "padding": 0
         },
         {
             "description": "Working in the Morello kernel team, expecting to learn about Armv8 and the Linux kernel, and eventually contribute in testing the kernel and Morello integration work. Expected to carry on the project next year as well.",
-            "image": "arm-logo.svg",
+            "image": "activities/arm-logo.svg",
             "link": {
                 "link": "https://careers.arm.com/search-jobs?acm=8109424,8123792&alrpm=ALL&ascf=[%7B%22key%22:%22ALL%22,%22value%22:%22%22%7D]",
                 "text": "See here for the role"
@@ -120,7 +120,7 @@
         },
         {
             "description": "Niched is a web app that helps students discover micro-communities within their college. They can create new community/spaces, initiate and organize activities, post text or media and create comments to communicate with other peers. Used Vue.js and Element+ UI library to develop the frontend pages, and FastAPI + MongoDB for the backend, including login and register using JWT",
-            "image": "niched-app.jpg",
+            "image": "activities/niched-app.jpg",
             "link": {
                 "link": "https://github.com/zhao-xuan/Niched-Frontend",
                 "text": "See the project repo"
@@ -131,35 +131,35 @@
         },
         {
             "description": "Developed company finance management platform for both manager end and employee end. Used React.js for frontend and flask for backend. Used opencv to implement QR code scan feature. Main functionalities include creating form template in the same fashion as Google sheet, creating form processing procedures, managing employee accounts and bank information, and most importantly, recording employee expenses and compensation status.",
-            "image": "swift-assist.JPG",
+            "image": "activities/swift-assist.JPG",
             "padding": 0,
             "time": "Part-time work starting in Spring 2021",
             "title": "Swift Assist"
         },
         {
             "description": "Solved 3 out of 6 problems in the LeetCode Cup 2021 Spring Group Competition. The team placed in top 100 or top 3.4% in the national level. This competition was only held within LeetCode mainland China site.",
-            "image": "leetcode-spring-2021.jpg",
+            "image": "activities/leetcode-spring-2021.jpg",
             "padding": 0,
             "time": "Spring 2021, National Top 100 or Top 3.4%",
             "title": "LeetCode Cup 2021 Spring Group Competition"
         },
         {
             "description": "Implemented a WACC language compiler capable of generating both Armv6/Arm11 architecture assembly and Intel x86-64. WACC is a simple language whose syntax is like C/Pascal designed for educational purpose. Used ANTLR tool to generate the language parser and used the generated parser to construct syntax tree, during which symbol table is constructed and syntax and semantic checks are performed, as well as the generation of error messages if any syntax or semantic errors occur. The WACC compiler can analyse basic control flows, including if-else statement, for/while loops, switch and break/continue. It supports basic, pointer, and struct types, as well as functions and nested functions. It also supports import third party libraries, native List, Map, and Set, system calls (read, print, exit, etc.) and -O1 level compiler optimization.",
-            "image": "wacc-compiler.JPG",
+            "image": "activities/wacc-compiler.JPG",
             "padding": 0,
             "time": "Second Year Compiler Group Project",
             "title": "WACC Language Compiler"
         },
         {
             "description": "Developed a simple operating system with three other group members. Implementation includes a Round-Robin process scheduler and a priority-based scheduler based on CPU time of each process, the synchronization mechanisms (including lock, semaphore, and monitor). Enabled execution/running of user-space programs and several standard Unix system calls, such as file open() and close(). Implemented virtual memory and page management,including page allocation,copy-on-write and shared-pages, memory-mapped files, and page swapping based on Second-Change algorithm. All implementations choices related to memory management are original by our team.",
-            "image": "pintos.png",
+            "image": "activities/pintos.png",
             "padding": 0,
             "time": "Second Year OS Group Project",
             "title": "Pintos Operating System"
         },
         {
             "description": "Core responsibilities include developing the devops page for the company, writing intial version of the company's dToF SPAD sensor simulator as well as virtual drivers. Responsibile for porting  the Qualcomm Hexagon DSP module and Camss module from the codeaurora branch into the AOSP mainline  kernel.",
-            "image": "adaps-logo.jpeg",
+            "image": "activities/adaps-logo.jpeg",
             "link": {
                 "link": "http://adapsphotonics.com",
                 "text": "See here for the company website"
@@ -170,21 +170,21 @@
         },
         {
             "description": "Solved 3 out of 5 problems in the LeetCode Cup 2020 Fall Individual Competition. Placed in top 500 or top 4.7% in the national level. This competition was only held within LeetCode mainland China site.",
-            "image": "leetcode-fall-2020.png",
+            "image": "activities/leetcode-fall-2020.png",
             "padding": 0,
             "time": "Summer 2020, National Top 500 or Top 4.7%",
             "title": "LeetCode Cup 2020 Fall Individual Competition"
         },
         {
             "description": "Responsible for the development of PSUI which is potentially used across the company products. Using React.js, Sass with tools such as Storybook and Jest to build a reliable interface for VPN and analytic products. Wrote a python script to transform Mocha/Chai to Jest with Enzyme. Built  visual regression tests with jest-image-snapshot developed by Amex.",
-            "image": "pulse-secure.jpeg",
+            "image": "activities/pulse-secure.jpeg",
             "padding": 0,
             "time": "Full-time(10 weeks) internship in 2020 summer",
             "title": "Pulse Secure Software Engineer Summer Intern"
         },
         {
             "description": "Responsible for building the AI using genetic algorithm and fine-tuned it for both a conservative AI and a risky AI. Implemented another AI using reinforcement learning as well. Used ncurse to build the command line interface. Implemented Raspberry Pi version using C. People can play it using different sensors on an LED screen.",
-            "image": "tetris-plus-plus.JPG",
+            "image": "activities/tetris-plus-plus.JPG",
             "padding": 0,
             "link": {
                 "link": "https://github.com/zhao-xuan/TetrisPlusPlus",
@@ -195,7 +195,7 @@
         },
         {
             "description": "Built ARM11 emulator and assembler that support four basic types of ARMv6/ARM11 instruction set. Used function pointer, macro functions in both emulator and assembler. Implemented a decoder to decode binary in emulator. Implemented hash-table and tokenizer to convert assembly lines to binary codes in assembler.",
-            "image": "arm-emulator.png",
+            "image": "activities/arm-emulator.png",
             "link": {
                 "link": "https://github.com/zhao-xuan/ARM11-Project",
                 "text": "See the project repo"
@@ -206,7 +206,7 @@
         },
         {
             "description": "A Music Player Helping People Learn New Languages. Collaborated with two undergraduates to create the NLP database and frontend. Used React.js and related tools on npm to build the scrolling lyric with word-by-word translation interface as well as the player. Used Python and jiagu library to do natural language processing on lyrics, including tokenization and word categorization, etc. Used Netease Music Box with Python to access music and lyric data.",
-            "image": "ic-hack-logo.jpeg",
+            "image": "activities/ic-hack-logo.jpeg",
             "link": {
                 "link": "https://devpost.com/software/linguomusic",
                 "text": "See on github"
@@ -217,14 +217,14 @@
         },
         {
             "description": "A continuous project to build a cloud platform for AutoCAD. Designed RESTful API. Developed backend using Java with Spring framework and MySQL. Implemented authentication through Spring Security with JWT. Helped build frontend using React.js and Ant Design UI.",
-            "image": "autodesk-logo.jpeg",
+            "image": "activities/autodesk-logo.jpeg",
             "padding": 0,
             "time": "6 months 2019-2020",
             "title": "CAD Connect"
         },
         {
             "description": "An Add-on for OpenWRT system. Used JavaScript with chart.js, jQuery, and Bootstrap as the frontend,  and Python with Flask and SQLite as the backend. It can extract Internet usage information periodically  from the OpenWRT router system for each host, including MAC address, download and upload statistics,  and visualise it as a chart on a webpage.",
-            "image": "openwrt-monitor.jpeg",
+            "image": "activities/openwrt-monitor.jpeg",
             "link": {
                 "link": "https://github.com/zhao-xuan/Openwrt-Internet-Monitor",
                 "text": "See on github"
@@ -235,7 +235,7 @@
         },
         {
             "description": "Begin to study @ Imperial College London Department of Computing. Learned lots of new things: Haskell,  Advanced Java Multithreading, SQL and Database Design, Computer Hardware and Architecture, Assembly and  Compiler, etc.",
-            "image": "imperial-logo.jpeg",
+            "image": "activities/imperial-logo.jpeg",
             "link": {
                 "link": "https://www.imperial.ac.uk",
                 "text": "See college website"
