@@ -56,10 +56,10 @@
             "path": "intro/bg-14.jpg",
             "color": "rgb(241, 152, 98)"
         },
-        {
-            "path": "intro/bg-15.jpg",
-            "color": "rgb(189, 208, 227)"
-        },
+        // {
+        //     "path": "intro/bg-15.jpg",
+        //     "color": "rgb(189, 208, 227)"
+        // },
         {
             "path": "intro/bg-16.jpg",
             "color": "rgb(115, 124, 142)"
