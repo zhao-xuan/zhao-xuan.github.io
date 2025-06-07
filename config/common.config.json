@@ -42,12 +42,12 @@
         },
         {
             "path": "intro/bg-9.jpg",
-            "color": "rgb(70, 128, 206)",
+            "color": "rgb(110, 168, 246)",
             "position": "left"
         },
         {
             "path": "intro/bg-10.jpg",
-            "color": "rgb(31, 46, 68)",
+            "color": "rgb(114, 164, 237)",
             "position": "left"
         },
         {
@@ -72,12 +72,12 @@
         },
         {
             "path": "intro/bg-16.jpg",
-            "color": "rgb(115, 124, 142)",
+            "color": "rgb(155, 164, 182)",
             "position": "left"
         },
         {
             "path": "intro/bg-17.jpg",
-            "color": "rgb(101, 135, 139)",
+            "color": "rgb(141, 175, 179)",
             "position": "left"
         },
         {
