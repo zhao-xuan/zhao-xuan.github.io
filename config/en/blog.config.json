@@ -2,18 +2,18 @@
     "streams": {
         "life": {
             "title": "Life",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/pnuNKGvTGQPAQf",
-            "description": "Personal experiences and daily life"
+            "description": "Personal experiences and daily life",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/pnuNKGvTGQPAQf"
         },
         "study": {
             "title": "Study",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/eP9d58SyTAm7K4",
-            "description": "Academic pursuits and learning"
+            "description": "Academic pursuits and learning",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/eP9d58SyTAm7K4"
         },
         "work": {
             "title": "Work",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/5PN22IlSKDWFh7",
-            "description": "Professional experiences and projects"
+            "description": "Professional experiences and projects",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/5PN22IlSKDWFh7"
         }
     },
     "title": "My Blog"

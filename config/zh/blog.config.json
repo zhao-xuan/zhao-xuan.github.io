@@ -1,19 +1,19 @@
 {
     "streams": {
         "life": {
-            "title": "Life",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/JpkWjacWwCq0rf",
-            "description": "Personal experiences and daily life"
+            "title": "生活",
+            "description": "个人经历和日常生活",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/JpkWjacWwCq0rf"
         },
         "study": {
-            "title": "Study",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/AEo9E2SyQ1QCna",
-            "description": "Academic pursuits and learning"
+            "title": "学习",
+            "description": "学术追求和学习经历",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/AEo9E2SyQ1QCna"
         },
         "work": {
-            "title": "Work",
-            "embedUrl": "https://donkeys-hug-guk.craft.me/rMni52CWVom8MG",
-            "description": "Professional experiences and projects"
+            "title": "工作",
+            "description": "专业经验和项目",
+            "embedUrl": "https://donkeys-hug-guk.craft.me/rMni52CWVom8MG"
         }
     },
     "title": "我的博客"
