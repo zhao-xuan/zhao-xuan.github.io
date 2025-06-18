@@ -3,92 +3,164 @@
         {
             "path": "intro/bg-1.jpg",
             "color": "rgb(138, 198, 221)",
-            "position": "right"
+            "position": "right",
+            "description": {
+                "en": "Credit: @leibniz_not_biscuit | Location: 🇨🇭 Zermatt, Switzerland | Time: Mar 23 2024",
+                "zh": "摄影：@leibniz_not_biscuit | 地点：🇨🇭 瑞士采尔马特 | 时间：2024年3月23日"
+            }
         },
         {
             "path": "intro/bg-2.jpg",
             "color": "rgb(100, 163, 205)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @周姐 | Location: 🇺🇸 Yosemite National Park, CA, US | Time: Dec 21 2024",
+                "zh": "摄影：@周姐 | 地点：🇺🇸 美国加利福尼亚州优胜美地国家公园 | 时间：2024年12月21日"
+            }
         },
         {
             "path": "intro/bg-3.jpg",
             "color": "rgb(203, 99, 61)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @周姐 | Location: 🇺🇸 San Simeon, CA, US | Time: Dec 26 2024",
+                "zh": "摄影：@周姐 | 地点：🇺🇸 美国加利福尼亚州圣西蒙 | 时间：2024年12月26日"
+            }
         },
         {
             "path": "intro/bg-4.jpg",
             "color": "rgb(227, 171, 112)",
-            "position": "right"
+            "position": "right",
+            "description": {
+                "en": "Credit: @严姐 | Location: 🇺🇸 Golden Gate Bridge, San Francisco, CA, US | Time: Dec 24 2024",
+                "zh": "摄影：@严姐 | 地点：🇺🇸 美国加利福尼亚州旧金山金门大桥 | 时间：2024年12月24日"
+            }
         },
         {
             "path": "intro/bg-5.jpg",
             "color": "rgb(125, 159, 202)",
-            "position": "right"
+            "position": "right",
+            "description": {
+                "en": "Credit: @海军 | Location: 🇵🇹 Madeira Island, Portugal | Time: Mar 9 2025",
+                "zh": "摄影：@海军 | 地点：🇵🇹 葡萄牙马德拉岛 | 时间：2025年3月9日"
+            }
         },
         {
             "path": "intro/bg-6.jpg",
             "color": "rgb(203, 178, 95)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @周姐 | Location: 🇺🇸 Yosemite National Park, CA, US | Time: Dec 22 2024",
+                "zh": "摄影：@周姐 | 地点：🇺🇸 美国加利福尼亚州优胜美地国家公园 | 时间：2024年12月22日"
+            }
         },
         {
             "path": "intro/bg-7.jpg",
             "color": "rgb(178, 174, 167)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @Chris | Location: 🇬🇧 London, United Kingdom | Time: Jan 27 2025",
+                "zh": "摄影：@Chris | 地点：🇬🇧 英国伦敦 | 时间：2025年1月27日"
+            }
         },
         {
             "path": "intro/bg-8.jpg",
             "color": "rgb(255, 250, 160)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @IvanX | Location: 🇯🇵 Umeda, Osaka, Japan | Time: Apr 21 2025",
+                "zh": "摄影：@IvanX | 地点：🇯🇵 日本大阪梅田 | 时间：2025年4月21日"
+            }
         },
         {
             "path": "intro/bg-9.jpg",
             "color": "rgb(110, 168, 246)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @严姐 | Location: 🇺🇸 Coit Tower, San Francisco, CA, US | Time: Dec 24 2024",
+                "zh": "摄影：@严姐 | 地点：🇺🇸 美国加利福尼亚州旧金山科伊特塔 | 时间：2024年12月24日"
+            }
         },
         {
             "path": "intro/bg-10.jpg",
             "color": "rgb(94, 144, 217)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @周姐 | Location: 🇺🇸 Christmas Peak, San Francisco, CA, US | Time: Dec 24 2024",
+                "zh": "摄影：@周姐 | 地点：🇺🇸 美国加利福尼亚州旧金山圣诞峰 | 时间：2024年12月24日"
+            }
         },
         {
             "path": "intro/bg-11.jpg",
             "color": "rgb(229, 109, 75)",
-            "position": "right"
+            "position": "right",
+            "description": {
+                "en": "Credit: @周姐 | Location: 🇺🇸 Santa Barbara, CA, US | Time: Dec 27 2024",
+                "zh": "摄影：@周姐 | 地点：🇺🇸 美国加利福尼亚州圣巴巴拉 | 时间：2024年12月27日"
+            }
         },
         {
             "path": "intro/bg-12.jpg",
             "color": "rgb(146, 184, 238)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @KK | Location: 🇺🇸 Joshua Tree National Park, CA, US | Time: Dec 31 2024",
+                "zh": "摄影：@KK | 地点：🇺🇸 美国加利福尼亚州约书亚树国家公园 | 时间：2024年12月31日"
+            }
         },
         {
             "path": "intro/bg-13.jpg",
             "color": "rgb(245, 164, 95)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @myself | Location: 🇺🇸 Joshua Tree National Park, CA, US | Time: Dec 31 2024",
+                "zh": "摄影：@myself | 地点：🇺🇸 美国加利福尼亚州约书亚树国家公园 | 时间：2024年12月31日"
+            }
         },
         {
             "path": "intro/bg-14.jpg",
             "color": "rgb(241, 152, 98)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @KK | Location: 🇺🇸 Joshua Tree National Park, CA, US | Time: Dec 31 2024",
+                "zh": "摄影：@KK | 地点：🇺🇸 美国加利福尼亚州约书亚树国家公园 | 时间：2024年12月31日"
+            }
         },
         {
             "path": "intro/bg-16.jpg",
             "color": "rgb(155, 164, 182)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @myself | Location: Taipei Pop Music Museum, Taipei, Taiwan | Time: Apr 24 2025",
+                "zh": "摄影：@myself | 地点：台湾台北流行音乐中心 | 时间：2025年4月24日"
+            }
         },
         {
             "path": "intro/bg-17.jpg",
             "color": "rgb(141, 175, 179)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @myself | Location: Xiziwan, Kaohsiung, Taiwan | Time: Apr 28 2025",
+                "zh": "摄影：@myself | 地点：台湾高雄西子湾 | 时间：2025年4月28日"
+            }
         },
         {
             "path": "intro/bg-18.jpg",
             "color": "rgb(229, 149, 127)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @Kaiyuan | Location: Xiziwan, Kaohsiung, Taiwan | Time: Apr 28 2025",
+                "zh": "摄影：@Kaiyuan | 地点：台湾高雄西子湾 | 时间：2025年4月28日"
+            }
         },
         {
             "path": "intro/bg-19.jpg",
             "color": "rgb(108, 164, 207)",
-            "position": "left"
+            "position": "left",
+            "description": {
+                "en": "Credit: @Kaiyuan | Location: Liuqiu Island, Taiwan | Time: Apr 29 2025",
+                "zh": "摄影：@Kaiyuan | 地点：台湾小琉球 | 时间：2025年4月29日"
+            }
         }
     ],
     "quote": {
