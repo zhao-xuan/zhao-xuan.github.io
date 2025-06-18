@@ -269,6 +269,106 @@
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGdIshaGzIdU8",
             "id": "atlanta"
+        },
+        {
+            "filter": "uk",
+            "image": "/photo_album_cover/lake-district-1.jpg",
+            "location": "Manchester & Peak District, United Kingdom",
+            "position": "col-lg-4 col-md-6",
+            "title": "Manchester & Peak District",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B0u5ejO17GtE7A4",
+            "id": "manchester-peak-district"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/hong-kong-2.jpg",
+            "location": "Australia",
+            "position": "col-lg-3 col-md-6",
+            "title": "Australia",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5M7GFPPFUyK",
+            "id": "australia"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/shanghai-2.jpg",
+            "location": "Singapore",
+            "position": "col-lg-2 col-md-6",
+            "title": "Singapore",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q52plgjGGqAxu",
+            "id": "singapore"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/spain-france-2.jpg",
+            "location": "Morocco",
+            "position": "col-lg-3 col-md-6",
+            "title": "Morocco",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5NI45MhLAlC",
+            "id": "morocco"
+        },
+        {
+            "filter": "us",
+            "image": "/photo_album_cover/sf-trip-2.jpg",
+            "location": "National Parks across the United States",
+            "position": "col-lg-5 col-md-6",
+            "title": "National Parks in the US",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5CmvAStdJ79",
+            "id": "national-parks-us"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/brighton-1.jpg",
+            "location": "Gibraltar",
+            "position": "col-lg-2 col-md-6",
+            "title": "Gibraltar",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5aDWbr8SAqJ",
+            "id": "gibraltar"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/cambridge-2.jpg",
+            "location": "Japan",
+            "position": "col-lg-3 col-md-6",
+            "title": "Japan Trip",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGJDfWGl5vzA",
+            "id": "japan-trip-new"
+        },
+        {
+            "filter": "us",
+            "image": "/photo_album_cover/nyc-2.jpg",
+            "location": "Seattle, Washington, U.S.",
+            "position": "col-lg-3 col-md-6",
+            "title": "Seattle",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGIcgc2GjzKMS",
+            "id": "seattle"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/shanghai-1.jpg",
+            "location": "Guangzhou & Shenzhen, China",
+            "position": "col-lg-4 col-md-6",
+            "title": "Guangzhou & Shenzhen",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qG0ehgLe7qjm",
+            "id": "guangzhou-shenzhen"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/northern-eu-2.jpg",
+            "location": "Madeira Island, Portugal",
+            "position": "col-lg-3 col-md-6",
+            "title": "Madeira Island",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJu8EH6Gl0Pgh",
+            "id": "madeira-island"
         }
     ],
     "tags": [

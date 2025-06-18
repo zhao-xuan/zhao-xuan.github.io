@@ -269,6 +269,106 @@
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B0uGdIshaGzIdU8",
             "id": "atlanta"
+        },
+        {
+            "filter": "uk",
+            "image": "/photo_album_cover/lake-district-1.jpg",
+            "location": "英国曼彻斯特和峰区",
+            "title": "曼彻斯特和峰区",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B0u5ejO17GtE7A4",
+            "id": "manchester-peak-district"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/hong-kong-2.jpg",
+            "location": "澳大利亚",
+            "title": "澳大利亚",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5M7GFPPFUyK",
+            "id": "australia"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/shanghai-2.jpg",
+            "location": "新加坡",
+            "title": "新加坡",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q52plgjGGqAxu",
+            "id": "singapore"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/spain-france-2.jpg",
+            "location": "摩洛哥",
+            "title": "摩洛哥",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5NI45MhLAlC",
+            "id": "morocco"
+        },
+        {
+            "filter": "us",
+            "image": "/photo_album_cover/sf-trip-2.jpg",
+            "location": "美国各地国家公园",
+            "title": "美国国家公园",
+            "position": "col-lg-5 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5CmvAStdJ79",
+            "id": "national-parks-us"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/brighton-1.jpg",
+            "location": "直布罗陀",
+            "title": "直布罗陀",
+            "position": "col-lg-2 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5aDWbr8SAqJ",
+            "id": "gibraltar"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/cambridge-2.jpg",
+            "location": "日本",
+            "title": "日本之行",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGJDfWGl5vzA",
+            "id": "japan-trip-new"
+        },
+        {
+            "filter": "us",
+            "image": "/photo_album_cover/nyc-2.jpg",
+            "location": "美国华盛顿州西雅图",
+            "title": "西雅图",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGIcgc2GjzKMS",
+            "id": "seattle"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/shanghai-1.jpg",
+            "location": "中国广州和深圳",
+            "title": "广州和深圳",
+            "position": "col-lg-4 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qG0ehgLe7qjm",
+            "id": "guangzhou-shenzhen"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/northern-eu-2.jpg",
+            "location": "葡萄牙马德拉岛",
+            "title": "马德拉岛",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJu8EH6Gl0Pgh",
+            "id": "madeira-island"
         }
     ],
     "tags": [
