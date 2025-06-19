@@ -26,52 +26,18 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        # Checkout both the main repo and the dev submodule/directory
-        submodules: true
         fetch-depth: 0
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-        cache: 'npm'
-        cache-dependency-path: 'zhao-xuan.github.io.dev/react-homepage/package-lock.json'
-
-    - name: Install dependencies
-      run: |
-        cd zhao-xuan.github.io.dev/react-homepage
-        npm ci
 
     - name: Create environment file
       run: |
-        cd zhao-xuan.github.io.dev/react-homepage
         echo "OAUTH_GITHUB_CLIENT_ID=${{ secrets.OAUTH_GITHUB_CLIENT_ID }}" >> .env
         echo "OAUTH_GITHUB_SECRET_ID=${{ secrets.OAUTH_GITHUB_SECRET_ID }}" >> .env
         echo "OAUTH_GOOGLE_CLIENT_ID=${{ secrets.OAUTH_GOOGLE_CLIENT_ID }}" >> .env
         echo "REDIRECT_URI=${{ secrets.REDIRECT_URI }}" >> .env
         # Add any other environment variables you need
 
-    - name: Build React project
+    - name: Ensure CNAME file exists
       run: |
-        cd zhao-xuan.github.io.dev/react-homepage
-        npm run build
-      env:
-        CI: false
-        # Disable CI mode to treat warnings as warnings, not errors
-        GENERATE_SOURCEMAP: false
-
-    - name: Copy build output to root
-      run: |
-        # Remove old files but keep important ones
-        find . -maxdepth 1 -type f -name "*.html" -delete
-        find . -maxdepth 1 -type f -name "*.js" -delete
-        find . -maxdepth 1 -type f -name "*.css" -delete
-        find . -maxdepth 1 -type f -name "*.json" ! -name "package.json" ! -name "manifest.json" -delete
-        rm -rf static 2>/dev/null || true
-        
-        # Copy new build files
-        cp -r zhao-xuan.github.io.dev/react-homepage/build/* .
-        
         # Ensure CNAME file exists for custom domain (if applicable)
         if [ ! -f CNAME ] && [ -n "${{ secrets.CUSTOM_DOMAIN }}" ]; then
           echo "${{ secrets.CUSTOM_DOMAIN }}" > CNAME
