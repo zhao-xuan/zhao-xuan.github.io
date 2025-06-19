@@ -30,10 +30,10 @@ jobs:
 
     - name: Create environment file
       run: |
-        echo "OAUTH_GITHUB_CLIENT_ID=${{ secrets.OAUTH_GITHUB_CLIENT_ID }}" >> .env
-        echo "OAUTH_GITHUB_SECRET_ID=${{ secrets.OAUTH_GITHUB_SECRET_ID }}" >> .env
-        echo "OAUTH_GOOGLE_CLIENT_ID=${{ secrets.OAUTH_GOOGLE_CLIENT_ID }}" >> .env
-        echo "REDIRECT_URI=${{ secrets.REDIRECT_URI }}" >> .env
+        echo "REACT_APP_GITHUB_CLIENT_ID=${{ secrets.REACT_APP_GITHUB_CLIENT_ID }}" >> .env
+        echo "REACT_APP_GITHUB_SECRET_ID=${{ secrets.REACT_APP_GITHUB_SECRET_ID }}" >> .env
+        echo "REACT_APP_GOOGLE_CLIENT_ID=${{ secrets.REACT_APP_GOOGLE_CLIENT_ID }}" >> .env
+        echo "REACT_APP_REDIRECT_URI=${{ secrets.REACT_APP_REDIRECT_URI }}" >> .env
         # Add any other environment variables you need
 
     - name: Ensure CNAME file exists
