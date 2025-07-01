@@ -207,9 +207,9 @@
             "name": "Whatsapp"
           },
           {
-            "name": "Custom Service",
-            "customImage": "https://tomzhao.me/images/xhs.png",
-            "link": "https://your-custom-service.com"
+            "name": "小红书",
+            "customImage": "https://tomzhao.me/images/xhs.svg",
+            "link": "https://www.xiaohongshu.com/user/profile/62f0e433000000001e01dfae?xsec_token=YBk8JiZdnOBkPWCpg0nd4QMi8aMGfKGI0hWkpHNuk6-dQ=&xsec_source=app_share&xhsshare=CopyLink&appuid=62f0e433000000001e01dfae&apptime=1751404965&share_id=fc8196e131ad409e8616b33a3393c349"
           }
     ]
 }
