@@ -205,6 +205,11 @@
             "icon": "fab, whatsapp",
             "link": "javascript:alert('Removed due to spamming!');",
             "name": "Whatsapp"
+          },
+          {
+            "name": "Custom Service",
+            "customImage": "https://tomzhao.me/images/xhs.png",
+            "link": "https://your-custom-service.com"
           }
     ]
 }
