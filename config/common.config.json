@@ -172,44 +172,49 @@
     },
     "social_media": [
         {
+            "icon": "fa-solid, fa-envelope",
+            "link": "mailto:zhaoxuan0914@gmail.com",
+            "name": "Email"
+        },
+        {
             "icon": "fab, facebook",
             "link": "https://www.facebook.com/xuan.zhao.14019",
             "name": "Facebook"
-          },
-          {
+        },
+        {
             "icon": "fab, instagram",
             "link": "https://www.instagram.com/tomzhao1999",
             "name": "Instagram"
-          },
-          {
+        },
+        {
             "icon": "fab, github",
             "link": "https://www.github.com/zhao-xuan",
             "name": "Github"
-          },
-          {
+        },
+        {
             "icon": "fab, linkedin",
             "link": "https://www.linkedin.com/in/zhaoxuan0914/",
             "name": "LinkedIn"
-          },
-          {
+        },
+        {
             "icon": "fab, weixin",
             "link": "javascript:alert('Removed due to spamming!');",
             "name": "WeChat"
-          },
-          {
+        },
+        {
             "icon": "fab, telegram",
             "link": "javascript:alert('Removed due to spamming!');",
             "name": "Telegram"
-          },
-          {
+        },
+        {
             "icon": "fab, whatsapp",
             "link": "javascript:alert('Removed due to spamming!');",
             "name": "Whatsapp"
-          },
-          {
+        },
+        {
             "name": "小红书",
             "customImage": "https://tomzhao.me/images/xhs.svg",
             "link": "https://www.xiaohongshu.com/user/profile/62f0e433000000001e01dfae?xsec_token=YBk8JiZdnOBkPWCpg0nd4QMi8aMGfKGI0hWkpHNuk6-dQ=&xsec_source=app_share&xhsshare=CopyLink&appuid=62f0e433000000001e01dfae&apptime=1751404965&share_id=fc8196e131ad409e8616b33a3393c349"
-          }
+        }
     ]
 }
