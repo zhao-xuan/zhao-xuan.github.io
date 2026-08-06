@@ -2,6 +2,138 @@
     "display_number": 4,
     "items": [
         {
+            "title": "PaperSignal: A Privacy-First Manuscript Tracking Chrome Extension",
+            "time": "August 2026, my latest open-source project",
+            "description": "Built and open-sourced PaperSignal, a Chrome extension for tracking manuscript submissions in one dashboard. It reads authenticated submission pages from Springer Nature, ScholarOne, Taylor & Francis, Wiley, and user-defined websites; records status history and time spent at each stage; and supports hiding and restoring papers, printable reports, and email drafts. All manuscript data stays in local browser storage with no backend, analytics, or ads. The project also includes CI/CD for validation, packaging, GitHub Releases, and Chrome Web Store publishing.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository and latest release",
+                "link": "https://github.com/zhao-xuan/PaperSignal"
+            }
+        },
+        {
+            "title": "PixLog: Git-Native Image Versioning and Generation Provenance",
+            "time": "July 2026, released an open-source Go CLI",
+            "description": "Built PixLog, a Git-compatible media and generation provenance layer for image assets. It stores original images in content-addressed storage while keeping Git commits lightweight, then adds pixel-level diffs, heatmaps, changed regions, and visual blame to show who changed which pixels. PixLog also records image-processing and AI-generation recipes, imports C2PA and image metadata, verifies complete lineage, and enforces visual policies in CI through a GitHub Action. It is written in Go and distributed through Homebrew and Linux, macOS, and Windows releases.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the PixLog repository, documentation, and releases",
+                "link": "https://github.com/zhao-xuan/PixLog"
+            }
+        },
+        {
+            "title": "Instagram Unfollow Monitor for macOS",
+            "time": "July 2026, a local-first personal automation tool",
+            "description": "Built a double-clickable macOS app that records Instagram follower lists and detects new followers, unfollows, and username changes. It compares snapshots using stable account IDs, caches avatars for complete HTML email reports, and uses macOS launchd to run daily checks at a chosen time. The interface is built with Python and Tkinter and packaged with PyInstaller; configuration, sessions, history, and credentials stay on the user's own Mac.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/ins-unfollow-monitor"
+            }
+        },
+        {
+            "title": "London Rent Desk",
+            "time": "July 2026, a local-first London rental workspace",
+            "description": "Built a London rental research and contact workspace with TypeScript, React, Vite, and Electron. It imports and deduplicates listings from CSV, JSON, and authorized feeds, preserves statuses and notes during refreshes, and exports contact packs. The desktop app integrates multiple model providers and a GitHub Copilot bridge built on the official VS Code Language Model API to analyze listings and draft one-at-a-time enquiries. Every external contact has a human approval gate, and API keys are encrypted through Electron safeStorage.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/london-house-search-agent"
+            }
+        },
+        {
+            "title": "DVSA Practical Test Booking Bot",
+            "time": "July 2026, personal UK driving-test booking automation",
+            "description": "Built a personal DVSA practical-test availability monitor with JavaScript, Playwright, and the Chrome DevTools Protocol. It rotates target centres and dates by priority, uses rate-limited polling with jitter, records available slots, and recovers from expired sessions. The tool connects to a visible real Chrome session and leaves queues or CAPTCHAs for manual handling. Personal and payment details are read only from environment variables and are masked in logs.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/DSVA-bot"
+            }
+        },
+        {
+            "title": "Contributed Native MAC-Only / BYO-DHCP Support to Kube-OVN",
+            "time": "June 2026, PR #6885 merged into kubeovn/kube-ovn",
+            "description": "Contributed support for underlay subnets without a CIDR to the CNCF Kube-OVN project, allowing Kube-OVN to allocate only MAC addresses while an external DHCP server assigns IPs dynamically. The change covers subnet validation, controller and IPAM flows, OVN/OVS programming, and CNI handling so MAC-only workloads do not wait for an IP or routes or run inapplicable network configuration. End-to-end coverage was added, and the feature was merged on June 25, 2026 after seven commits and multiple rounds of upstream review.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the merged Kube-OVN PR #6885",
+                "link": "https://github.com/kubeovn/kube-ovn/pull/6885"
+            }
+        },
+        {
+            "title": "The Charme Edit: A Shopify Charm Customizer",
+            "time": "June 2026, an interactive e-commerce customization tool",
+            "description": "Built a phone-case and canvas-tote charm customizer with React, Vite, and Ant Design, then packaged the same experience as a Shopify theme app extension. Customers can place real charms on products rendered at physical millimetre scale while the app checks overlap, camera clearance, and boundaries in real time, calculates pricing, and generates maker and styled order proofs. A built-in Merchant Studio handles charm-photo upload, background removal, measurement, and catalogue export.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/the-charme-edit-shopify-extension"
+            }
+        },
+        {
+            "title": "CmdChronicle: Local Command-Line Workflow Analysis",
+            "time": "July 2025, a Python and Ollama project",
+            "description": "Built a command-line tool that analyzes shell history to discover repeated workflows, identify automation opportunities, and generate summaries and visual reports about development habits. It supports bash and zsh and uses local Ollama models for pattern analysis, keeping command history off cloud services. It can also generate word clouds and commemorative workflow pages.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/CmdChronicle"
+            }
+        },
+        {
+            "title": "InboxPilot: AI-Powered Email and Teams Automation",
+            "time": "June 2025, a Langflow Hackathon project",
+            "description": "Helped build InboxPilot, an AI automation system that receives Outlook email and Teams message events through Microsoft Graph. It combines a FastAPI webhook service, an MCP server exposing Microsoft Graph tools, and Langflow workflows to summarize messages, extract action items, perform vector search, create Microsoft To Do tasks, schedule meetings, and draft responses based on message content.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/InboxPilot"
+            }
+        },
+        {
+            "title": "Project Zohar: A Privacy-First Local AI Assistant",
+            "time": "June 2025, an open-source AI agent project",
+            "description": "Built a locally deployable AI assistant that runs models through Ollama and integrates CAMEL AI tools, vector search, and multi-format file analysis. The project provides both command-line and real-time web chat, separates personal and public agents, and includes integration paths for email, Slack, Discord, and Telegram.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/project-zohar"
+            }
+        },
+        {
+            "title": "IELTS Study Bot",
+            "time": "November 2024, an open-source tool for native Mandarin speakers",
+            "description": "Built an open-source Python tool to support IELTS study and exam preparation for native Mandarin speakers. The project combines browser automation with the Google Sheets API to organize collected learning material and results into a maintainable spreadsheet workflow.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/IELTS-Study-Bot"
+            }
+        },
+        {
+            "title": "Omnivore Dance Website",
+            "time": "September 2024, a bespoke website project",
+            "description": "Designed and developed the Omnivore Dance website for Yinqi and Xiao. The project uses HTML, CSS, and JavaScript and was a frontend exercise tailored around specific people and their content.",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "See the project repository",
+                "link": "https://github.com/zhao-xuan/Omnivore-Dance"
+            }
+        },
+        {
             "title": "Incoming Full-time Software Engineer @ Microsoft Azure for Operators",
             "time": "October 2023, my first full-time job after college graduation",
             "description": "I will be joining the Azure for Operators team at Microsoft based in Enfield, London. Originally being the Metaswitch Company, the office/company was bought by Microsoft in 2020 and has now become part of the Azure Cloud Computing group within Microsoft.",

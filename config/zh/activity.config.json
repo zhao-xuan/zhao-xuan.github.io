@@ -2,6 +2,138 @@
     "display_number": 4,
     "items": [
         {
+            "title": "PaperSignal：隐私优先的论文投稿状态追踪 Chrome 扩展",
+            "time": "2026年8月，最新开源项目",
+            "description": "开发并开源了 PaperSignal，一款集中追踪论文投稿状态的 Chrome 扩展。它可以从 Springer Nature、ScholarOne、Taylor & Francis、Wiley 以及用户自定义网站的已登录投稿页面中提取状态，记录每次状态变化及当前阶段的持续时间，并支持隐藏与恢复论文、生成可打印报告或邮件草稿。所有稿件数据均保存在浏览器本地，不依赖后端，也不包含分析或广告服务；项目还配有用于校验、打包、GitHub Release 和 Chrome Web Store 发布的完整 CI/CD 流程。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库和最新版本",
+                "link": "https://github.com/zhao-xuan/PaperSignal"
+            }
+        },
+        {
+            "title": "PixLog：面向 Git 的图像版本管理与生成溯源工具",
+            "time": "2026年7月，发布 Go 开源 CLI 工具",
+            "description": "开发了 PixLog，一个与 Git 兼容的图像媒体和生成溯源层。它使用内容寻址存储保存原始图像，让 Git 提交保持轻量，同时提供像素级差异、热力图、区域变更和 visual blame，追踪由谁修改了哪些像素。PixLog 还可以记录图像处理与 AI 生成 recipe、导入 C2PA 和图像元数据、验证完整 lineage，并通过策略文件与 GitHub Action 在 CI 中拦截不合规的视觉变更。项目使用 Go 开发，提供 Homebrew 安装及 Linux、macOS 和 Windows 版本。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看 PixLog 代码、文档和最新版本",
+                "link": "https://github.com/zhao-xuan/PixLog"
+            }
+        },
+        {
+            "title": "Instagram Unfollow Monitor macOS 桌面应用",
+            "time": "2026年7月，本地优先的个人自动化工具",
+            "description": "开发了一款可直接运行的 macOS 应用，定期记录 Instagram 关注者列表，并识别新增关注、取消关注和用户名变化。应用通过稳定的账户 ID 比较快照，缓存头像以生成完整的 HTML 邮件报告，并使用 macOS launchd 在设定时间执行每日检查。界面使用 Python 和 Tkinter 构建，通过 PyInstaller 打包；配置、会话、历史数据和凭据均保存在用户自己的 Mac 上。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/ins-unfollow-monitor"
+            }
+        },
+        {
+            "title": "租径 · London Rent Desk",
+            "time": "2026年7月，本地优先的伦敦租房工作台",
+            "description": "使用 TypeScript、React、Vite 和 Electron 开发了一个伦敦租房整理与联络工作台。它可以导入并去重 CSV、JSON 和授权 feed 中的房源，在刷新数据时保留状态与备注，并导出联络包。桌面版集成多家模型服务和基于官方 VS Code Language Model API 的 GitHub Copilot bridge，用于分析房源并生成逐套询问信草稿；所有外部联系都设置了人工确认门禁，API key 则由 Electron safeStorage 加密保存。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/london-house-search-agent"
+            }
+        },
+        {
+            "title": "DVSA Practical Test Booking Bot",
+            "time": "2026年7月，英国驾照路考预约个人自动化工具",
+            "description": "使用 JavaScript、Playwright 和 Chrome DevTools Protocol 开发了个人使用的 DVSA 路考空位监测工具。它按优先级轮换目标考点和日期、使用带抖动的低频轮询、记录发现的空位，并在会话过期后自动恢复。工具连接用户可见的真实 Chrome，遇到排队或验证码时保留浏览器供人工处理；个人资料和支付信息只从环境变量读取，日志中仅显示脱敏值。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/DSVA-bot"
+            }
+        },
+        {
+            "title": "为 Kube-OVN 贡献原生 MAC-only / BYO-DHCP 支持",
+            "time": "2026年6月，PR #6885 已合并至 kubeovn/kube-ovn",
+            "description": "向 CNCF 项目 Kube-OVN 贡献了无 CIDR 的 underlay 子网支持，使集群可以只由 Kube-OVN 分配 MAC 地址，并交由外部 DHCP 动态分配 IP。该改动覆盖子网校验、控制器与 IPAM、OVN/OVS 配置以及 CNI 流程，避免 MAC-only 工作负载等待 IP、路由或执行不适用的网络配置，同时补充了端到端测试。该功能经过 7 次提交和多轮上游评审后，于 2026 年 6 月 25 日合并。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看已合并的 Kube-OVN PR #6885",
+                "link": "https://github.com/kubeovn/kube-ovn/pull/6885"
+            }
+        },
+        {
+            "title": "The Charmé Edit：Shopify 饰品定制器",
+            "time": "2026年6月，交互式电商定制工具",
+            "description": "使用 React、Vite 和 Ant Design 开发了一个手机壳与帆布包饰品定制器，并将同一套体验打包为 Shopify 主题应用扩展。顾客可以把真实饰品拖放到按毫米比例呈现的商品上，系统会实时检测重叠、相机区域和越界问题、计算价格，并生成制作凭证与最终效果图。内置的 Merchant Studio 还能完成饰品照片上传、背景移除、尺寸测量和目录导出。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/the-charme-edit-shopify-extension"
+            }
+        },
+        {
+            "title": "CmdChronicle：本地命令行工作流分析工具",
+            "time": "2025年7月，Python 与 Ollama 项目",
+            "description": "开发了一个分析 shell 命令历史的命令行工具，用于发现重复工作流、识别自动化机会，并生成开发习惯总结与可视化报告。项目支持 bash 和 zsh，通过本地 Ollama 模型进行模式分析，无需把命令历史发送到云端，还可以生成词云和纪念页面等可视化结果。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/CmdChronicle"
+            }
+        },
+        {
+            "title": "InboxPilot：AI 驱动的邮件与 Teams 自动化系统",
+            "time": "2025年6月，Langflow Hackathon 项目",
+            "description": "参与开发了 InboxPilot，一个通过 Microsoft Graph 实时接收 Outlook 邮件和 Teams 消息的 AI 自动化系统。项目由 FastAPI webhook 服务、提供 Microsoft Graph 工具的 MCP Server 和 Langflow 工作流组成，可以总结消息、提取行动项、进行向量检索，并按内容创建 Microsoft To Do 任务、安排会议或生成回复。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/InboxPilot"
+            }
+        },
+        {
+            "title": "Project Zohar：隐私优先的本地 AI 助手",
+            "time": "2025年6月，开源 AI Agent 项目",
+            "description": "开发了一个支持本地部署的 AI 助手，通过 Ollama 在本机运行模型，并集成 CAMEL AI 工具、向量搜索和多格式文件分析。项目同时提供命令行与 Web 实时聊天界面，区分个人和公共 Agent，并预留了电子邮件、Slack、Discord 和 Telegram 等平台连接能力。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/project-zohar"
+            }
+        },
+        {
+            "title": "IELTS Study Bot",
+            "time": "2024年11月，为中文母语学习者开发的开源工具",
+            "description": "使用 Python 开发了一款辅助雅思学习与备考的开源工具，面向中文母语学习者设计。项目结合浏览器自动化与 Google Sheets API，把学习过程中收集的资料和结果整理到可持续维护的表格工作流中。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/IELTS-Study-Bot"
+            }
+        },
+        {
+            "title": "Omnivore Dance 网站",
+            "time": "2024年9月，定制网站项目",
+            "description": "为 Yinqi 和 Xiao 设计并开发了 Omnivore Dance 网站。项目使用 HTML、CSS 和 JavaScript 实现，是一次围绕特定人物与内容量身定制的前端网站实践。",
+            "image": "",
+            "padding": 0,
+            "link": {
+                "text": "点此查看项目代码仓库",
+                "link": "https://github.com/zhao-xuan/Omnivore-Dance"
+            }
+        },
+        {
             "title": "全职软件工程师 @ 微软英国Azure for Operators (A4O) 组",
             "time": "2023年10月, 我的第一份全职工作",
             "description": "我会在年底加入微软在伦敦英菲尔德的Azure for Operators (A4O)办公室。该办公室原为Metaswitch公司，于2020年7月被微软收购，现在属于Azure云计算大组下的一个分支。",
