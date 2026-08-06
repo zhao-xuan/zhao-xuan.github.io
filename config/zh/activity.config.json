@@ -24,17 +24,6 @@
             }
         },
         {
-            "title": "Instagram Unfollow Monitor macOS 桌面应用",
-            "time": "2026年7月，本地优先的个人自动化工具",
-            "description": "开发了一款可直接运行的 macOS 应用，定期记录 Instagram 关注者列表，并识别新增关注、取消关注和用户名变化。应用通过稳定的账户 ID 比较快照，缓存头像以生成完整的 HTML 邮件报告，并使用 macOS launchd 在设定时间执行每日检查。界面使用 Python 和 Tkinter 构建，通过 PyInstaller 打包；配置、会话、历史数据和凭据均保存在用户自己的 Mac 上。",
-            "image": "activities/instagram-unfollow-monitor.png",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/ins-unfollow-monitor"
-            }
-        },
-        {
             "title": "租径 · London Rent Desk",
             "time": "2026年7月，本地优先的伦敦租房工作台",
             "description": "使用 TypeScript、React、Vite 和 Electron 开发了一个伦敦租房整理与联络工作台。它可以导入并去重 CSV、JSON 和授权 feed 中的房源，在刷新数据时保留状态与备注，并导出联络包。桌面版集成多家模型服务和基于官方 VS Code Language Model API 的 GitHub Copilot bridge，用于分析房源并生成逐套询问信草稿；所有外部联系都设置了人工确认门禁，API key 则由 Electron safeStorage 加密保存。",
@@ -43,17 +32,6 @@
             "link": {
                 "text": "点此查看项目代码仓库",
                 "link": "https://github.com/zhao-xuan/london-house-search-agent"
-            }
-        },
-        {
-            "title": "DVSA Practical Test Booking Bot",
-            "time": "2026年7月，英国驾照路考预约个人自动化工具",
-            "description": "使用 JavaScript、Playwright 和 Chrome DevTools Protocol 开发了个人使用的 DVSA 路考空位监测工具。它按优先级轮换目标考点和日期、使用带抖动的低频轮询、记录发现的空位，并在会话过期后自动恢复。工具连接用户可见的真实 Chrome，遇到排队或验证码时保留浏览器供人工处理；个人资料和支付信息只从环境变量读取，日志中仅显示脱敏值。",
-            "image": "activities/dvsa-booking-bot.png",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/DSVA-bot"
             }
         },
         {
@@ -79,6 +57,39 @@
             }
         },
         {
+            "title": "Lyriku：用音乐学习语言",
+            "time": "2026年春季，上线于 lyriku.com",
+            "description": "开发并上线了 Lyriku，一个通过音乐学习日语、韩语和中文的全栈平台。它把同步歌词与逐行翻译、词汇和语法解析、发音辅助、学习等级筛选、学习卡片收藏及间隔复习结合在一起；完整产品还包括音乐排行榜与视频、歌曲点播、多语言界面、社区排行榜和学习者文章。Lyriku 使用 React、TypeScript、Tailwind CSS、Zustand、Supabase、FastAPI、MeCab 和 Gemini AI 构建。",
+            "image": "activities/lyriku-home.png",
+            "padding": 0,
+            "link": {
+                "text": "点此体验 Lyriku",
+                "link": "https://lyriku.com"
+            }
+        },
+        {
+            "title": "Brandible.uk：AI 品牌命名与域名查找工具",
+            "time": "2026年5月，上线于 brandible.uk",
+            "description": "开发并上线了 Brandible.uk，一个面向创业者的 AI 命名工作台。用户描述项目创意后，可以获得 10 个简短的品牌名候选，并实时检查 .com、.uk、.ai 等顶级域名。每个结果都包含基于名称质量、域名可用性、价格和知名品牌距离的 brandability score，以及品牌性格标签、宣传语、跨语言风险、名称变体和社交账号建议。该多语言 TypeScript 应用使用 Cloudflare Workers AI 与 OpenRouter 生成结果，并通过 Supabase 登录保存和比较收藏名称。",
+            "image": "activities/brandible-name-generator.png",
+            "padding": 0,
+            "link": {
+                "text": "点此体验 Brandible.uk",
+                "link": "https://brandible.uk"
+            }
+        },
+        {
+            "title": "PocketKuri：基于预算的城市探索工具",
+            "time": "2026年4月，上线于 pocketkuri.com",
+            "description": "开发并上线了 PocketKuri，一个根据用户预算寻找城市体验的多语言应用。节约栗子 YariKuri 会通过对话引导用户输入金额和城市，再结合地图与实时数据推荐预算范围内的餐饮、购物、附近地点、电影、演出和其他活动。网站还提供世界各地城市的低预算精选指南，并支持免登录使用、账户、分享、明暗主题和本地化界面。项目概念来自《哆啦A梦》中严格管理开支的秘密道具“节约栗子”。",
+            "image": "activities/pocketkuri-home.png",
+            "padding": 0,
+            "link": {
+                "text": "点此体验 PocketKuri",
+                "link": "https://pocketkuri.com"
+            }
+        },
+        {
             "title": "CmdChronicle：本地命令行工作流分析工具",
             "time": "2025年7月，Python 与 Ollama 项目",
             "description": "开发了一个分析 shell 命令历史的命令行工具，用于发现重复工作流、识别自动化机会，并生成开发习惯总结与可视化报告。项目支持 bash 和 zsh，通过本地 Ollama 模型进行模式分析，无需把命令历史发送到云端，还可以生成词云和纪念页面等可视化结果。",
@@ -87,50 +98,6 @@
             "link": {
                 "text": "点此查看项目代码仓库",
                 "link": "https://github.com/zhao-xuan/CmdChronicle"
-            }
-        },
-        {
-            "title": "InboxPilot：AI 驱动的邮件与 Teams 自动化系统",
-            "time": "2025年6月，Langflow Hackathon 项目",
-            "description": "参与开发了 InboxPilot，一个通过 Microsoft Graph 实时接收 Outlook 邮件和 Teams 消息的 AI 自动化系统。项目由 FastAPI webhook 服务、提供 Microsoft Graph 工具的 MCP Server 和 Langflow 工作流组成，可以总结消息、提取行动项、进行向量检索，并按内容创建 Microsoft To Do 任务、安排会议或生成回复。",
-            "image": "activities/inboxpilot.svg",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/InboxPilot"
-            }
-        },
-        {
-            "title": "Project Zohar：隐私优先的本地 AI 助手",
-            "time": "2025年6月，开源 AI Agent 项目",
-            "description": "开发了一个支持本地部署的 AI 助手，通过 Ollama 在本机运行模型，并集成 CAMEL AI 工具、向量搜索和多格式文件分析。项目同时提供命令行与 Web 实时聊天界面，区分个人和公共 Agent，并预留了电子邮件、Slack、Discord 和 Telegram 等平台连接能力。",
-            "image": "activities/project-zohar.svg",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/project-zohar"
-            }
-        },
-        {
-            "title": "IELTS Study Bot",
-            "time": "2024年11月，为中文母语学习者开发的开源工具",
-            "description": "使用 Python 开发了一款辅助雅思学习与备考的开源工具，面向中文母语学习者设计。项目结合浏览器自动化与 Google Sheets API，把学习过程中收集的资料和结果整理到可持续维护的表格工作流中。",
-            "image": "activities/ielts-study-bot.svg",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/IELTS-Study-Bot"
-            }
-        },
-        {
-            "title": "Omnivore Dance 网站",
-            "time": "2024年9月，定制网站项目",
-            "description": "为 Yinqi 和 Xiao 设计并开发了 Omnivore Dance 网站。项目使用 HTML、CSS 和 JavaScript 实现，是一次围绕特定人物与内容量身定制的前端网站实践。",
-            "image": "activities/omnivore-dance.svg",
-            "padding": 0,
-            "link": {
-                "text": "点此查看项目代码仓库",
-                "link": "https://github.com/zhao-xuan/Omnivore-Dance"
             }
         },
         {

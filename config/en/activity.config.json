@@ -24,17 +24,6 @@
             }
         },
         {
-            "title": "Instagram Unfollow Monitor for macOS",
-            "time": "July 2026, a local-first personal automation tool",
-            "description": "Built a double-clickable macOS app that records Instagram follower lists and detects new followers, unfollows, and username changes. It compares snapshots using stable account IDs, caches avatars for complete HTML email reports, and uses macOS launchd to run daily checks at a chosen time. The interface is built with Python and Tkinter and packaged with PyInstaller; configuration, sessions, history, and credentials stay on the user's own Mac.",
-            "image": "activities/instagram-unfollow-monitor.png",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/ins-unfollow-monitor"
-            }
-        },
-        {
             "title": "London Rent Desk",
             "time": "July 2026, a local-first London rental workspace",
             "description": "Built a London rental research and contact workspace with TypeScript, React, Vite, and Electron. It imports and deduplicates listings from CSV, JSON, and authorized feeds, preserves statuses and notes during refreshes, and exports contact packs. The desktop app integrates multiple model providers and a GitHub Copilot bridge built on the official VS Code Language Model API to analyze listings and draft one-at-a-time enquiries. Every external contact has a human approval gate, and API keys are encrypted through Electron safeStorage.",
@@ -43,17 +32,6 @@
             "link": {
                 "text": "See the project repository",
                 "link": "https://github.com/zhao-xuan/london-house-search-agent"
-            }
-        },
-        {
-            "title": "DVSA Practical Test Booking Bot",
-            "time": "July 2026, personal UK driving-test booking automation",
-            "description": "Built a personal DVSA practical-test availability monitor with JavaScript, Playwright, and the Chrome DevTools Protocol. It rotates target centres and dates by priority, uses rate-limited polling with jitter, records available slots, and recovers from expired sessions. The tool connects to a visible real Chrome session and leaves queues or CAPTCHAs for manual handling. Personal and payment details are read only from environment variables and are masked in logs.",
-            "image": "activities/dvsa-booking-bot.png",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/DSVA-bot"
             }
         },
         {
@@ -79,6 +57,39 @@
             }
         },
         {
+            "title": "Lyriku: Learn Languages Through Music",
+            "time": "Spring 2026, launched at lyriku.com",
+            "description": "Built and launched Lyriku, a full-stack platform for learning Japanese, Korean, and Chinese through music. It combines synchronized lyrics with line-by-line translations, vocabulary and grammar breakdowns, pronunciation support, learning-level filters, saved study cards, and spaced-repetition review. The wider product includes music charts and videos, song requests, multilingual interfaces, a community leaderboard, and learner-written articles. Lyriku uses React, TypeScript, Tailwind CSS, Zustand, Supabase, FastAPI, MeCab, and Gemini AI.",
+            "image": "activities/lyriku-home.png",
+            "padding": 0,
+            "link": {
+                "text": "Explore Lyriku",
+                "link": "https://lyriku.com"
+            }
+        },
+        {
+            "title": "Brandible.uk: AI Brand Name and Domain Finder",
+            "time": "May 2026, launched at brandible.uk",
+            "description": "Built and launched Brandible.uk, an AI naming workspace for founders. A user describes an idea and receives ten short brand-name candidates with live domain checks across .com, .uk, .ai, and other TLDs. Each result includes a brandability score based on name quality, availability, pricing, and distance from known brands, plus personality tags, taglines, language warnings, variations, and social-handle suggestions. The multilingual TypeScript application uses Cloudflare Workers AI and OpenRouter for generation, with Supabase authentication for saving and comparing favourites.",
+            "image": "activities/brandible-name-generator.png",
+            "padding": 0,
+            "link": {
+                "text": "Try Brandible.uk",
+                "link": "https://brandible.uk"
+            }
+        },
+        {
+            "title": "PocketKuri: Budget-Based City Discovery",
+            "time": "April 2026, launched at pocketkuri.com",
+            "description": "Built and launched PocketKuri, a multilingual city-discovery app that finds worthwhile experiences within a user's budget. Its YariKuri character guides people through entering an amount and city, then combines maps and live data to recommend dining, shopping, nearby places, films, events, and other activities that fit. The site also publishes curated low-cost guides for cities around the world and supports guest use, accounts, sharing, light and dark themes, and localized interfaces. The concept is inspired by the budget-enforcing YariKuri gadget from Doraemon.",
+            "image": "activities/pocketkuri-home.png",
+            "padding": 0,
+            "link": {
+                "text": "Explore PocketKuri",
+                "link": "https://pocketkuri.com"
+            }
+        },
+        {
             "title": "CmdChronicle: Local Command-Line Workflow Analysis",
             "time": "July 2025, a Python and Ollama project",
             "description": "Built a command-line tool that analyzes shell history to discover repeated workflows, identify automation opportunities, and generate summaries and visual reports about development habits. It supports bash and zsh and uses local Ollama models for pattern analysis, keeping command history off cloud services. It can also generate word clouds and commemorative workflow pages.",
@@ -87,50 +98,6 @@
             "link": {
                 "text": "See the project repository",
                 "link": "https://github.com/zhao-xuan/CmdChronicle"
-            }
-        },
-        {
-            "title": "InboxPilot: AI-Powered Email and Teams Automation",
-            "time": "June 2025, a Langflow Hackathon project",
-            "description": "Helped build InboxPilot, an AI automation system that receives Outlook email and Teams message events through Microsoft Graph. It combines a FastAPI webhook service, an MCP server exposing Microsoft Graph tools, and Langflow workflows to summarize messages, extract action items, perform vector search, create Microsoft To Do tasks, schedule meetings, and draft responses based on message content.",
-            "image": "activities/inboxpilot.svg",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/InboxPilot"
-            }
-        },
-        {
-            "title": "Project Zohar: A Privacy-First Local AI Assistant",
-            "time": "June 2025, an open-source AI agent project",
-            "description": "Built a locally deployable AI assistant that runs models through Ollama and integrates CAMEL AI tools, vector search, and multi-format file analysis. The project provides both command-line and real-time web chat, separates personal and public agents, and includes integration paths for email, Slack, Discord, and Telegram.",
-            "image": "activities/project-zohar.svg",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/project-zohar"
-            }
-        },
-        {
-            "title": "IELTS Study Bot",
-            "time": "November 2024, an open-source tool for native Mandarin speakers",
-            "description": "Built an open-source Python tool to support IELTS study and exam preparation for native Mandarin speakers. The project combines browser automation with the Google Sheets API to organize collected learning material and results into a maintainable spreadsheet workflow.",
-            "image": "activities/ielts-study-bot.svg",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/IELTS-Study-Bot"
-            }
-        },
-        {
-            "title": "Omnivore Dance Website",
-            "time": "September 2024, a bespoke website project",
-            "description": "Designed and developed the Omnivore Dance website for Yinqi and Xiao. The project uses HTML, CSS, and JavaScript and was a frontend exercise tailored around specific people and their content.",
-            "image": "activities/omnivore-dance.svg",
-            "padding": 0,
-            "link": {
-                "text": "See the project repository",
-                "link": "https://github.com/zhao-xuan/Omnivore-Dance"
             }
         },
         {
