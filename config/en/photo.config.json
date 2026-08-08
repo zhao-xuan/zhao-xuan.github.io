@@ -369,6 +369,76 @@
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B1qJu8EH6Gl0Pgh",
             "id": "madeira-island"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/belgium-1.jpg",
+            "title": "Belgium",
+            "location": "Leuven, Antwerp & Brussels, Belgium",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qG4VTwGJqOj23",
+            "id": "belgium"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/central-europe-1.jpg",
+            "title": "Central Europe & Italy",
+            "location": "Czech, Hungary, Italy & Dolomites",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGrhkPxGZ60Nn",
+            "id": "central-europe-italy"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/greece-1.jpg",
+            "title": "Greece",
+            "location": "Santorini, Greece",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5fEtEv4EFEP",
+            "id": "greece"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/south-korea-1.jpg",
+            "title": "South Korea",
+            "location": "Jeju Island, South Korea",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGdFryYGzFLYZ",
+            "id": "south-korea"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/taiwan-1.jpg",
+            "title": "Taiwan",
+            "location": "Taipei, Kaohsiung & Keelung, Taiwan",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGhtLJ3G7co9o",
+            "id": "taiwan"
+        },
+        {
+            "filter": "*",
+            "image": "/photo_album_cover/south-america-1.jpg",
+            "title": "South America",
+            "location": "Chile, Argentina & Patagonia",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJqstnBG43V20",
+            "id": "south-america"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/northwest-china-1.jpg",
+            "title": "Northwest China",
+            "location": "Gansu & Inner Mongolia, China",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJr1PPdGWvJ22",
+            "id": "northwest-china"
         }
     ],
     "tags": [
@@ -402,5 +472,5 @@
         }
     ],
     "title": "My Photo Gallery",
-    "display_number": 70
+    "display_number": 44
 }

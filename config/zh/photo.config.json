@@ -369,6 +369,76 @@
             "description": "",
             "link": "https://www.icloud.com/sharedalbum/#B1qJu8EH6Gl0Pgh",
             "id": "madeira-island"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/belgium-1.jpg",
+            "title": "比利时",
+            "location": "比利时鲁汶、安特卫普、布鲁塞尔",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qG4VTwGJqOj23",
+            "id": "belgium"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/central-europe-1.jpg",
+            "title": "中欧与意大利",
+            "location": "捷克、匈牙利、意大利多洛米蒂",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGrhkPxGZ60Nn",
+            "id": "central-europe-italy"
+        },
+        {
+            "filter": "eu",
+            "image": "/photo_album_cover/greece-1.jpg",
+            "title": "希腊",
+            "location": "希腊圣托里尼",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1q5fEtEv4EFEP",
+            "id": "greece"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/south-korea-1.jpg",
+            "title": "韩国",
+            "location": "韩国济州岛",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGdFryYGzFLYZ",
+            "id": "south-korea"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/taiwan-1.jpg",
+            "title": "台湾",
+            "location": "台北、高雄、基隆",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qGhtLJ3G7co9o",
+            "id": "taiwan"
+        },
+        {
+            "filter": "*",
+            "image": "/photo_album_cover/south-america-1.jpg",
+            "title": "南美洲",
+            "location": "智利、阿根廷、巴塔哥尼亚",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJqstnBG43V20",
+            "id": "south-america"
+        },
+        {
+            "filter": "cn",
+            "image": "/photo_album_cover/northwest-china-1.jpg",
+            "title": "中国西北",
+            "location": "甘肃、内蒙古",
+            "position": "col-lg-3 col-md-6",
+            "description": "",
+            "link": "https://www.icloud.com/sharedalbum/#B1qJr1PPdGWvJ22",
+            "id": "northwest-china"
         }
     ],
     "tags": [
@@ -402,5 +472,5 @@
         }
     ],
     "title": "我的照片库",
-    "display_number": 70
+    "display_number": 44
 }
